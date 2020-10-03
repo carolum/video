@@ -853,6 +853,36 @@ They also take too long to use.&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
+ <producer id="producer34" in="00:00:00.000" out="00:00:05.005">
+  <property name="length">151</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">00:00:01.001</property>
+  <property name="kdenlive:clipname">carolumgud1 slideinnnnn</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="30" LC_NUMERIC="C" width="1920" height="1080" out="29">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="470" y="443">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="767.25" font-color="0,0,0,255">Friendly UI&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="2000,318,2355,1324"/>
+ &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">25</property>
+  <property name="kdenlive:id">30</property>
+  <property name="kdenlive:file_hash">054db2528c22da56dc9e8f522b56fe6c</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
  <producer id="producer23" in="00:00:00.000" out="00:00:04.972">
   <property name="length">150</property>
   <property name="eof">pause</property>
@@ -1333,40 +1363,14 @@ one topic, or into one journal&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
- <producer id="producer34" in="00:00:00.000" out="00:00:05.005">
-  <property name="length">151</property>
-  <property name="eof">pause</property>
-  <property name="resource"/>
-  <property name="progressive">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="seekable">1</property>
-  <property name="mlt_service">kdenlivetitle</property>
-  <property name="kdenlive:duration">00:00:01.001</property>
-  <property name="kdenlive:clipname">carolumgud1 slideinnnnn</property>
-  <property name="xmldata">&lt;kdenlivetitle duration="30" LC_NUMERIC="C" width="1920" height="1080" out="29">
- &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="470" y="443">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="767.25" font-color="0,0,0,255">Friendly UI&lt;/content>
- &lt;/item>
- &lt;startviewport rect="2000,318,2355,1324"/>
- &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
- &lt;background color="255,255,255,255"/>
-&lt;/kdenlivetitle>
-</property>
-  <property name="kdenlive:folderid">25</property>
-  <property name="kdenlive:id">30</property>
-  <property name="kdenlive:file_hash">054db2528c22da56dc9e8f522b56fe6c</property>
-  <property name="force_reload">0</property>
-  <property name="global_feed">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
- </producer>
  <producer id="producer35" in="00:00:00.000" out="00:00:58.358">
   <property name="length">1750</property>
   <property name="eof">pause</property>
   <property name="resource">mobile_create_journal.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">30.0171</property>
@@ -1391,10 +1395,6 @@ one topic, or into one journal&lt;/content>
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
-  <property name="audio_index">-1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:folderid">44</property>
   <property name="meta.media.frame_rate_num">8765</property>
@@ -1404,7 +1404,7 @@ one topic, or into one journal&lt;/content>
   <property name="meta.media.width">356</property>
   <property name="meta.media.height">638</property>
   <property name="meta.media.color_range">mpeg</property>
-  <property name="kdenlive:id">46</property>
+  <property name="kdenlive:id">45</property>
   <property name="kdenlive:file_size">406493</property>
   <property name="kdenlive:file_hash">c380a9eba37ec91e1c9361cd8e76fc90</property>
   <property name="meta.media.top_field_first">0</property>
@@ -1453,7 +1453,7 @@ to recipes!&lt;/content>
 &lt;/kdenlivetitle>
 </property>
   <property name="kdenlive:folderid">44</property>
-  <property name="kdenlive:id">47</property>
+  <property name="kdenlive:id">46</property>
   <property name="kdenlive:file_hash">4a127345458654723750427eb7acc14f</property>
   <property name="force_reload">0</property>
   <property name="global_feed">1</property>
@@ -1489,7 +1489,7 @@ to recipes!&lt;/content>
 &lt;/kdenlivetitle>
 </property>
   <property name="kdenlive:folderid">44</property>
-  <property name="kdenlive:id">48</property>
+  <property name="kdenlive:id">47</property>
   <property name="kdenlive:file_hash">4a127345458654723750427eb7acc14f</property>
   <property name="force_reload">0</property>
   <property name="global_feed">1</property>
@@ -1520,7 +1520,7 @@ to recipes!&lt;/content>
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.08.1</property>
-  <property name="kdenlive:docproperties.position">4529</property>
+  <property name="kdenlive:docproperties.position">144</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080p_2997</property>
@@ -1529,21 +1529,21 @@ to recipes!&lt;/content>
   <property name="kdenlive:docproperties.proxyimagesize">800</property>
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
-  <property name="kdenlive:docproperties.scrollPos">1691</property>
+  <property name="kdenlive:docproperties.scrollPos">1509</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">2</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">1935</property>
   <property name="kdenlive:docproperties.zoneout">2010</property>
-  <property name="kdenlive:docproperties.zoom">8</property>
+  <property name="kdenlive:docproperties.zoom">3</property>
   <property name="kdenlive:expandedFolders">44</property>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
   <entry producer="producer1" in="00:00:00.000" out="00:04:38.105"/>
   <entry producer="producer0" in="00:00:00.000" out="00:00:06.006"/>
   <entry producer="producer4" in="00:00:00.000" out="00:00:06.006"/>
-  <entry producer="producer2" in="00:00:00.000" out="00:01:18.452"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:02:03.003"/>
   <entry producer="producer3" in="00:00:00.000" out="00:00:06.006"/>
   <entry producer="producer5" in="00:00:00.000" out="00:00:06.006"/>
   <entry producer="producer6" in="00:00:00.000" out="00:00:04.972"/>
@@ -1561,20 +1561,20 @@ to recipes!&lt;/content>
   <entry producer="producer19" in="00:00:00.000" out="00:00:04.972"/>
   <entry producer="producer20" in="00:00:00.000" out="00:00:05.005"/>
   <entry producer="producer21" in="00:00:00.000" out="00:00:04.972"/>
+  <entry producer="producer34" in="00:00:00.000" out="00:00:05.005"/>
   <entry producer="producer23" in="00:00:00.000" out="00:00:04.972"/>
   <entry producer="producer24" in="00:00:00.000" out="00:00:50.651"/>
   <entry producer="producer15" in="00:00:00.000" out="00:01:04.805"/>
   <entry producer="producer25" in="00:00:00.000" out="00:00:53.253"/>
-  <entry producer="producer26" in="00:00:00.000" out="00:00:57.057"/>
+  <entry producer="producer26" in="00:00:00.000" out="00:01:00.601"/>
   <entry producer="producer27" in="00:00:00.000" out="00:00:50.651"/>
   <entry producer="producer29" in="00:00:00.000" out="00:00:04.972"/>
   <entry producer="producer28" in="00:00:00.000" out="00:00:07.107"/>
   <entry producer="producer30" in="00:00:00.000" out="00:00:15.716"/>
   <entry producer="producer32" in="00:00:00.000" out="00:00:15.716"/>
-  <entry producer="producer31" in="00:00:00.000" out="00:00:01.201"/>
-  <entry producer="producer33" in="00:00:00.000" out="00:00:01.201"/>
-  <entry producer="producer22" in="00:00:00.000" out="00:00:15.716"/>
-  <entry producer="producer34" in="00:00:00.000" out="00:00:05.005"/>
+  <entry producer="producer31" in="00:00:00.000" out="00:00:15.716"/>
+  <entry producer="producer33" in="00:00:00.000" out="00:00:15.716"/>
+  <entry producer="producer22" in="00:00:00.000" out="00:00:29.863"/>
   <entry producer="producer35" in="00:00:00.000" out="00:00:58.358"/>
   <entry producer="producer36" in="00:00:00.000" out="00:00:29.863"/>
   <entry producer="producer37" in="00:00:00.000" out="00:00:29.863"/>
@@ -1657,7 +1657,6 @@ to recipes!&lt;/content>
   <property name="kdenlive:audio_track">1</property>
   <entry producer="producer38" in="00:00:02.936" out="00:03:00.801">
    <property name="kdenlive:id">2</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter4">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -1701,10 +1700,10 @@ to recipes!&lt;/content>
  </tractor>
  <playlist id="playlist4">
   <blank length="00:00:03.704"/>
-  <entry producer="producer2" in="00:00:00.000" out="00:00:08.575">
+  <entry producer="producer2" in="00:00:00.000" out="00:00:08.709">
    <property name="kdenlive:id">7</property>
   </entry>
-  <blank length="00:00:26.760"/>
+  <blank length="00:00:26.627"/>
   <entry producer="producer2" in="00:00:00.000" out="00:02:03.003">
    <property name="kdenlive:id">7</property>
   </entry>
@@ -1745,10 +1744,10 @@ to recipes!&lt;/content>
    <property name="kdenlive:id">43</property>
   </entry>
   <entry producer="producer37" in="00:00:00.000" out="00:00:27.261">
-   <property name="kdenlive:id">48</property>
+   <property name="kdenlive:id">47</property>
   </entry>
   <entry producer="producer36" in="00:00:00.000" out="00:00:17.918">
-   <property name="kdenlive:id">47</property>
+   <property name="kdenlive:id">46</property>
   </entry>
  </playlist>
  <playlist id="playlist7"/>
@@ -1909,7 +1908,6 @@ to recipes!&lt;/content>
   </entry>
   <entry producer="producer39" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter13">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
@@ -2125,7 +2123,6 @@ to recipes!&lt;/content>
   <blank length="00:00:01.735"/>
   <entry producer="producer26" in="00:00:00.000" out="00:00:22.489">
    <property name="kdenlive:id">35</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter29">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
@@ -2174,7 +2171,6 @@ to recipes!&lt;/content>
   <blank length="00:00:05.239"/>
   <entry producer="producer26" in="00:00:00.000" out="00:00:42.576">
    <property name="kdenlive:id">35</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter31">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
@@ -2260,7 +2256,7 @@ to recipes!&lt;/content>
   <property name="aspect_ratio">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:folderid">44</property>
-  <property name="kdenlive:id">46</property>
+  <property name="kdenlive:id">45</property>
   <property name="kdenlive:file_size">406493</property>
   <property name="kdenlive:file_hash">c380a9eba37ec91e1c9361cd8e76fc90</property>
   <property name="global_feed">1</property>
@@ -2303,7 +2299,6 @@ to recipes!&lt;/content>
   <blank length="00:00:57.324"/>
   <entry producer="producer40" in="00:00:05.405" out="00:00:27.895">
    <property name="kdenlive:id">34</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter32">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
@@ -2330,8 +2325,7 @@ to recipes!&lt;/content>
   </entry>
   <blank length="00:00:19.586"/>
   <entry producer="producer41" in="00:00:03.170" out="00:00:45.746">
-   <property name="kdenlive:id">46</property>
-   <property name="kdenlive:activeeffect">0</property>
+   <property name="kdenlive:id">45</property>
    <filter id="filter34">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
