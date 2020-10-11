@@ -2244,6 +2244,54 @@ your data would be&lt;/content>
   <property name="meta.media.progressive">1</property>
   <property name="global_feed">1</property>
  </producer>
+ <producer id="producer55" in="00:00:00.000" out="00:00:07.107">
+  <property name="length">214</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:clipname">p3 done</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="C" width="1920" height="1080" out="149">
+ &lt;item type="QGraphicsTextItem" z-index="6">
+  &lt;position x="291" y="687">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="114" font="Georgia" letter-spacing="0" font-pixel-size="100" font-italic="0" alignment="2" font-weight="25" box-width="1564.66" font-color="248,131,121,255">Military-grade AES E2E encryption&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="4">
+  &lt;position x="294" y="492">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="114" font="Georgia" letter-spacing="0" font-pixel-size="100" font-italic="0" alignment="2" font-weight="25" box-width="1255.8" font-color="248,131,121,255">Stay organized with journals&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="3">
+  &lt;position x="293" y="265">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="114" font="Georgia" letter-spacing="0" font-pixel-size="100" font-italic="0" alignment="2" font-weight="25" box-width="919.266" font-color="248,131,121,255">Friendly Carolum UI&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="1">
+  &lt;position x="195" y="107">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="153" font-outline-color="0,0,0,255" font="Georgia" letter-spacing="0" font-pixel-size="134" font-italic="0" alignment="1" font-weight="25" font-outline="0" box-width="555.969" font-color="0,0,0,255">Carolum:&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">22</property>
+  <property name="kdenlive:id">71</property>
+  <property name="kdenlive:file_hash">50bb42ad39da8e3a4c19e0f562e8eb3e</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
  <playlist id="main_bin">
   <property name="kdenlive:folder.-1.4">Intro</property>
   <property name="kdenlive:folder.-1.6">audio</property>
@@ -2254,7 +2302,7 @@ your data would be&lt;/content>
   <property name="kdenlive:folder.-1.25">distracting_ui</property>
   <property name="kdenlive:folder.-1.44">one_trick_ponies</property>
   <property name="kdenlive:folder.-1.49">opaque_data</property>
-  <property name="kdenlive:docproperties.activeTrack">3</property>
+  <property name="kdenlive:docproperties.activeTrack">1</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.dirtypreviewchunks">1925,1950,1975,2000</property>
@@ -2270,7 +2318,7 @@ your data would be&lt;/content>
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.08.2</property>
-  <property name="kdenlive:docproperties.position">5114</property>
+  <property name="kdenlive:docproperties.position">5333</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension">mov</property>
   <property name="kdenlive:docproperties.previewparameters">r=29.97 s=1920x1080 vb=45M threads=0 vcodec=dnxhd progressive=1</property>
@@ -2280,15 +2328,15 @@ your data would be&lt;/content>
   <property name="kdenlive:docproperties.proxyimagesize">800</property>
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
-  <property name="kdenlive:docproperties.scrollPos">3788</property>
+  <property name="kdenlive:docproperties.scrollPos">81604</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">4</property>
   <property name="kdenlive:docproperties.zonein">4867</property>
   <property name="kdenlive:docproperties.zoneout">4942</property>
-  <property name="kdenlive:docproperties.zoom">7</property>
-  <property name="kdenlive:expandedFolders"/>
+  <property name="kdenlive:docproperties.zoom">2</property>
+  <property name="kdenlive:expandedFolders">22</property>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
   <entry producer="producer1" in="00:00:00.000" out="00:04:38.105"/>
@@ -2346,8 +2394,9 @@ your data would be&lt;/content>
   <entry producer="producer52" in="00:00:00.000" out="00:00:05.639"/>
   <entry producer="producer53" in="00:00:00.000" out="00:00:18.519"/>
   <entry producer="producer54" in="00:00:00.000" out="00:00:15.883"/>
+  <entry producer="producer55" in="00:00:00.000" out="00:00:07.107"/>
  </playlist>
- <producer id="black_track" in="00:00:00.000" out="00:20:12.880">
+ <producer id="black_track" in="00:00:00.000" out="00:19:46.046">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -2389,7 +2438,7 @@ your data would be&lt;/content>
    <property name="disable">1</property>
   </filter>
  </tractor>
- <producer id="producer55" in="00:00:00.000" out="00:04:38.105">
+ <producer id="producer56" in="00:00:00.000" out="00:04:38.105">
   <property name="length">8335</property>
   <property name="eof">pause</property>
   <property name="resource">audio/midnight_rendezvous.mp3</property>
@@ -2423,7 +2472,7 @@ your data would be&lt;/content>
  </producer>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="producer55" in="00:00:02.936" out="00:03:34.801">
+  <entry producer="producer56" in="00:00:02.936" out="00:03:00.167">
    <property name="kdenlive:id">2</property>
    <property name="kdenlive:activeeffect">0</property>
    <filter id="filter4">
@@ -2435,9 +2484,21 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
+  <entry producer="producer56" in="00:04:30.364" out="00:04:38.105">
+   <property name="kdenlive:id">2</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter5">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">00:04:30.364=-7.20562;00:04:30.397=-9.14642</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
  </playlist>
  <playlist id="playlist3"/>
- <tractor id="tractor1" in="00:00:00.000" out="00:03:31.865">
+ <tractor id="tractor1" in="00:00:00.000" out="00:03:05.005">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:collapsed">0</property>
@@ -2446,7 +2507,7 @@ your data would be&lt;/content>
   <property name="kdenlive:timeline_active">1</property>
   <track hide="video" producer="playlist2"/>
   <track hide="both" producer="playlist3"/>
-  <filter id="filter5">
+  <filter id="filter6">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="level">-6.26692</property>
@@ -2454,14 +2515,14 @@ your data would be&lt;/content>
    <property name="internal_added">237</property>
    <property name="disable">0</property>
   </filter>
-  <filter id="filter6">
+  <filter id="filter7">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter7">
+  <filter id="filter8">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="disable">1</property>
@@ -2566,9 +2627,15 @@ your data would be&lt;/content>
   <entry producer="producer49" in="00:00:00.000" out="00:00:12.513">
    <property name="kdenlive:id">60</property>
   </entry>
+  <entry producer="producer38" in="00:00:00.000" out="00:00:02.569">
+   <property name="kdenlive:id">48</property>
+  </entry>
+  <entry producer="producer55" in="00:00:00.000" out="00:00:04.972">
+   <property name="kdenlive:id">71</property>
+  </entry>
  </playlist>
  <playlist id="playlist7"/>
- <tractor id="tractor3" in="00:00:00.000" out="00:02:49.816">
+ <tractor id="tractor3" in="00:00:00.000" out="00:02:57.424">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:track_name">v3</property>
@@ -2578,7 +2645,7 @@ your data would be&lt;/content>
   <track hide="audio" producer="playlist6"/>
   <track hide="both" producer="playlist7"/>
  </tractor>
- <producer id="producer56" in="00:00:00.000" out="00:00:00.567">
+ <producer id="producer57" in="00:00:00.000" out="00:00:00.567">
   <property name="length">18</property>
   <property name="eof">pause</property>
   <property name="resource">animations/popups.gif</property>
@@ -2625,7 +2692,7 @@ your data would be&lt;/content>
   <property name="set.test_image">0</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <filter id="filter8">
+  <filter id="filter9">
    <property name="rotate_center">1</property>
    <property name="mlt_service">qtblend</property>
    <property name="kdenlive_id">qtblend</property>
@@ -2639,7 +2706,7 @@ your data would be&lt;/content>
   <blank length="00:00:01.935"/>
   <entry producer="producer0" in="00:00:00.000" out="00:00:01.735">
    <property name="kdenlive:id">3</property>
-   <filter id="filter9" out="00:00:01.335">
+   <filter id="filter10" out="00:00:01.335">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -2684,20 +2751,7 @@ your data would be&lt;/content>
   <entry producer="producer14" in="00:00:00.000" out="00:00:01.134">
    <property name="kdenlive:id">20</property>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
-   <property name="kdenlive:id">24</property>
-   <filter id="filter10">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000=1650 0 250 700 1.000000</property>
-    <property name="rotation">00:00:00.000=0</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter11">
     <property name="rotate_center">1</property>
@@ -2710,7 +2764,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter12">
     <property name="rotate_center">1</property>
@@ -2723,7 +2777,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter13">
     <property name="rotate_center">1</property>
@@ -2736,7 +2790,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter14">
     <property name="rotate_center">1</property>
@@ -2749,7 +2803,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter15">
     <property name="rotate_center">1</property>
@@ -2762,7 +2816,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter16">
     <property name="rotate_center">1</property>
@@ -2775,7 +2829,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter17">
     <property name="rotate_center">1</property>
@@ -2788,7 +2842,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter18">
     <property name="rotate_center">1</property>
@@ -2801,7 +2855,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter19">
     <property name="rotate_center">1</property>
@@ -2814,7 +2868,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter20">
     <property name="rotate_center">1</property>
@@ -2827,7 +2881,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.467">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter21">
     <property name="rotate_center">1</property>
@@ -2840,7 +2894,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.467">
    <property name="kdenlive:id">24</property>
    <filter id="filter22">
     <property name="rotate_center">1</property>
@@ -2853,7 +2907,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter23">
     <property name="rotate_center">1</property>
@@ -2866,7 +2920,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter24">
     <property name="rotate_center">1</property>
@@ -2879,7 +2933,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter25">
     <property name="rotate_center">1</property>
@@ -2892,7 +2946,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter26">
     <property name="rotate_center">1</property>
@@ -2905,7 +2959,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter27">
     <property name="rotate_center">1</property>
@@ -2918,9 +2972,22 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:00.400">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter28">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=1650 0 250 700 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.400">
+   <property name="kdenlive:id">24</property>
+   <filter id="filter29">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -2941,7 +3008,7 @@ your data would be&lt;/content>
   <entry producer="producer26" in="00:00:00.000" out="00:00:22.489">
    <property name="kdenlive:id">35</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter29">
+   <filter id="filter30">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -2955,7 +3022,7 @@ your data would be&lt;/content>
   <entry producer="producer26" in="00:00:00.000" out="00:00:08.275">
    <property name="kdenlive:id">35</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter30">
+   <filter id="filter31">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -2991,7 +3058,7 @@ your data would be&lt;/content>
   <entry producer="producer26" in="00:00:00.000" out="00:00:17.184">
    <property name="kdenlive:id">35</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter31">
+   <filter id="filter32">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -3006,7 +3073,7 @@ your data would be&lt;/content>
   <entry producer="producer26" in="00:00:00.000" out="00:00:12.513">
    <property name="kdenlive:id">35</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter32">
+   <filter id="filter33">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -3028,7 +3095,7 @@ your data would be&lt;/content>
   <track hide="audio" producer="playlist8"/>
   <track hide="both" producer="playlist9"/>
  </tractor>
- <producer id="producer57" in="00:00:00.000" out="00:00:53.253">
+ <producer id="producer58" in="00:00:00.000" out="00:00:53.253">
   <property name="length">1597</property>
   <property name="eof">pause</property>
   <property name="resource">mobile_login_and_create.mp4</property>
@@ -3079,7 +3146,7 @@ your data would be&lt;/content>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer58" in="00:00:00.000" out="00:00:23.323">
+ <producer id="producer59" in="00:00:00.000" out="00:00:23.323">
   <property name="length">700</property>
   <property name="eof">pause</property>
   <property name="resource">2.500000:mobile_create_journal.mp4</property>
@@ -3127,7 +3194,7 @@ your data would be&lt;/content>
   <property name="meta.media.progressive">1</property>
   <property name="kdenlive:id">45</property>
  </producer>
- <producer id="producer59" in="00:00:00.000" out="00:00:07.908">
+ <producer id="producer60" in="00:00:00.000" out="00:00:07.908">
   <property name="length">239</property>
   <property name="eof">pause</property>
   <property name="resource">2.000000:mobile_create_newnote.mp4</property>
@@ -3175,7 +3242,7 @@ your data would be&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer60" in="00:00:00.000" out="00:26:29.963">
+ <producer id="producer61" in="00:00:00.000" out="00:26:29.963">
   <property name="length">47700</property>
   <property name="eof">pause</property>
   <property name="resource">0.010000:mobile_create_newnote.mp4</property>
@@ -3225,10 +3292,10 @@ your data would be&lt;/content>
  </producer>
  <playlist id="playlist10">
   <blank length="00:00:57.324"/>
-  <entry producer="producer57" in="00:00:05.405" out="00:00:27.895">
+  <entry producer="producer58" in="00:00:05.405" out="00:00:27.895">
    <property name="kdenlive:id">34</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter33">
+   <filter id="filter34">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -3239,10 +3306,10 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer57" in="00:00:29.162" out="00:00:37.437">
+  <entry producer="producer58" in="00:00:29.162" out="00:00:37.437">
    <property name="kdenlive:id">34</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter34">
+   <filter id="filter35">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -3254,10 +3321,10 @@ your data would be&lt;/content>
    </filter>
   </entry>
   <blank length="00:00:16.950"/>
-  <entry producer="producer58" in="00:00:01.235" out="00:00:18.418">
+  <entry producer="producer59" in="00:00:01.235" out="00:00:18.418">
    <property name="kdenlive:id">45</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter35">
+   <filter id="filter36">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -3269,10 +3336,10 @@ your data would be&lt;/content>
    </filter>
   </entry>
   <blank length="00:00:34.968"/>
-  <entry producer="producer59" in="00:00:01.301" out="00:00:06.340">
+  <entry producer="producer60" in="00:00:01.301" out="00:00:06.340">
    <property name="kdenlive:id">68</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter36">
+   <filter id="filter37">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -3282,7 +3349,7 @@ your data would be&lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter37">
+   <filter id="filter38">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop</property>
     <property name="top">0</property>
@@ -3295,10 +3362,10 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer60" in="00:20:41.308" out="00:20:48.749">
+  <entry producer="producer61" in="00:20:41.308" out="00:20:48.749">
    <property name="kdenlive:id">68</property>
    <property name="kdenlive:activeeffect">1</property>
-   <filter id="filter38">
+   <filter id="filter39">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -3308,7 +3375,7 @@ your data would be&lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter39">
+   <filter id="filter40">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop</property>
     <property name="top">0</property>
@@ -3333,7 +3400,7 @@ your data would be&lt;/content>
   <track hide="audio" producer="playlist10"/>
   <track hide="both" producer="playlist11"/>
  </tractor>
- <producer id="producer61" in="00:00:00.000" out="00:00:18.519">
+ <producer id="producer62" in="00:00:00.000" out="00:00:18.519">
   <property name="length">556</property>
   <property name="eof">pause</property>
   <property name="resource">firebase_create_newnote.mp4</property>
@@ -3386,10 +3453,10 @@ your data would be&lt;/content>
  </producer>
  <playlist id="playlist12">
   <blank length="00:02:37.304"/>
-  <entry producer="producer61" in="00:00:00.000" out="00:00:05.038">
+  <entry producer="producer62" in="00:00:00.000" out="00:00:05.038">
    <property name="kdenlive:id">69</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter40">
+   <filter id="filter41">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -3400,10 +3467,10 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer61" in="00:00:09.176" out="00:00:16.617">
+  <entry producer="producer62" in="00:00:09.176" out="00:00:16.617">
    <property name="kdenlive:id">69</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter41">
+   <filter id="filter42">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -3423,7 +3490,7 @@ your data would be&lt;/content>
   <track hide="both" producer="playlist13"/>
  </tractor>
  <playlist id="timeline_preview"/>
- <tractor id="tractor7" global_feed="1" in="00:00:00.000" out="00:20:12.880">
+ <tractor id="tractor7" global_feed="1" in="00:00:00.000" out="00:19:46.046">
   <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
@@ -3506,7 +3573,7 @@ your data would be&lt;/content>
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <filter id="filter42">
+  <filter id="filter43">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="level">3.60657</property>
@@ -3514,14 +3581,14 @@ your data would be&lt;/content>
    <property name="internal_added">237</property>
    <property name="disable">0</property>
   </filter>
-  <filter id="filter43">
+  <filter id="filter44">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter44">
+  <filter id="filter45">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="disable">1</property>
