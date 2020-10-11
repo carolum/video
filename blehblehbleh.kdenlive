@@ -2148,16 +2148,16 @@ your data would be&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
- <producer id="producer53" in="00:00:00.000" out="00:00:28.061">
-  <property name="length">842</property>
+ <producer id="producer53" in="00:00:00.000" out="00:00:15.883">
+  <property name="length">477</property>
   <property name="eof">pause</property>
   <property name="resource">mobile_create_newnote.mp4</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">video</property>
-  <property name="meta.media.0.stream.frame_rate">30.0356</property>
+  <property name="meta.media.0.stream.frame_rate">30.0629</property>
   <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.0.codec.width">360</property>
-  <property name="meta.media.0.codec.height">638</property>
+  <property name="meta.media.0.codec.width">362</property>
+  <property name="meta.media.0.codec.height">640</property>
   <property name="meta.media.0.codec.rotate">0</property>
   <property name="meta.media.0.codec.frame_rate">30</property>
   <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
@@ -2166,7 +2166,7 @@ your data would be&lt;/content>
   <property name="meta.media.0.codec.color_trc">1</property>
   <property name="meta.media.0.codec.name">h264</property>
   <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.0.codec.bit_rate">45297</property>
+  <property name="meta.media.0.codec.bit_rate">44195</property>
   <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
   <property name="meta.attr.major_brand.markup">isom</property>
   <property name="meta.attr.minor_version.markup">512</property>
@@ -2182,16 +2182,64 @@ your data would be&lt;/content>
   <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:folderid">-1</property>
-  <property name="meta.media.frame_rate_num">8440</property>
-  <property name="meta.media.frame_rate_den">281</property>
+  <property name="meta.media.frame_rate_num">4780</property>
+  <property name="meta.media.frame_rate_den">159</property>
   <property name="meta.media.colorspace">709</property>
   <property name="meta.media.color_trc">1</property>
-  <property name="meta.media.width">360</property>
-  <property name="meta.media.height">638</property>
+  <property name="meta.media.width">362</property>
+  <property name="meta.media.height">640</property>
   <property name="meta.media.color_range">mpeg</property>
-  <property name="kdenlive:id">67</property>
-  <property name="kdenlive:file_size">169946</property>
-  <property name="kdenlive:file_hash">b1b0512be638de903b2acb37d4e7bc78</property>
+  <property name="kdenlive:id">68</property>
+  <property name="kdenlive:file_size">94352</property>
+  <property name="kdenlive:file_hash">1160822f8c9621659661a81d04ae38bc</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="producer54" in="00:00:00.000" out="00:00:18.519">
+  <property name="length">556</property>
+  <property name="eof">pause</property>
+  <property name="resource">firebase_create_newnote.mp4</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30.0539</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">662</property>
+  <property name="meta.media.0.codec.height">468</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">30</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">64656</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.45.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="meta.media.frame_rate_num">16740</property>
+  <property name="meta.media.frame_rate_den">557</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.width">662</property>
+  <property name="meta.media.height">468</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="kdenlive:id">69</property>
+  <property name="kdenlive:file_size">157586</property>
+  <property name="kdenlive:file_hash">f517797dcdb99ce3edd29f926744d6cc</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
   <property name="global_feed">1</property>
@@ -2222,7 +2270,7 @@ your data would be&lt;/content>
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.08.2</property>
-  <property name="kdenlive:docproperties.position">4742</property>
+  <property name="kdenlive:docproperties.position">4732</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension">mov</property>
   <property name="kdenlive:docproperties.previewparameters">r=29.97 s=1920x1080 vb=45M threads=0 vcodec=dnxhd progressive=1</property>
@@ -2232,13 +2280,13 @@ your data would be&lt;/content>
   <property name="kdenlive:docproperties.proxyimagesize">800</property>
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
-  <property name="kdenlive:docproperties.scrollPos">2139</property>
+  <property name="kdenlive:docproperties.scrollPos">2545</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">2</property>
-  <property name="kdenlive:docproperties.zonein">1935</property>
-  <property name="kdenlive:docproperties.zoneout">2010</property>
+  <property name="kdenlive:docproperties.videoTarget">4</property>
+  <property name="kdenlive:docproperties.zonein">4867</property>
+  <property name="kdenlive:docproperties.zoneout">4942</property>
   <property name="kdenlive:docproperties.zoom">8</property>
   <property name="kdenlive:expandedFolders">49</property>
   <property name="kdenlive:documentnotes"/>
@@ -2296,9 +2344,10 @@ your data would be&lt;/content>
   <entry producer="producer50" in="00:00:00.000" out="00:00:05.639"/>
   <entry producer="producer51" in="00:00:00.000" out="00:00:05.639"/>
   <entry producer="producer52" in="00:00:00.000" out="00:00:05.639"/>
-  <entry producer="producer53" in="00:00:00.000" out="00:00:28.061"/>
+  <entry producer="producer53" in="00:00:00.000" out="00:00:15.883"/>
+  <entry producer="producer54" in="00:00:00.000" out="00:00:18.519"/>
  </playlist>
- <producer id="black_track" in="00:00:00.000" out="00:19:49.950">
+ <producer id="black_track" in="00:00:00.000" out="00:20:10.644">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -2340,7 +2389,7 @@ your data would be&lt;/content>
    <property name="disable">1</property>
   </filter>
  </tractor>
- <producer id="producer54" in="00:00:00.000" out="00:04:38.105">
+ <producer id="producer55" in="00:00:00.000" out="00:04:38.105">
   <property name="length">8335</property>
   <property name="eof">pause</property>
   <property name="resource">audio/midnight_rendezvous.mp3</property>
@@ -2374,7 +2423,7 @@ your data would be&lt;/content>
  </producer>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="producer54" in="00:00:02.936" out="00:03:11.845">
+  <entry producer="producer55" in="00:00:02.936" out="00:03:11.845">
    <property name="kdenlive:id">2</property>
    <filter id="filter4">
     <property name="window">75</property>
@@ -2437,6 +2486,57 @@ your data would be&lt;/content>
   <track hide="audio" producer="playlist4"/>
   <track hide="both" producer="playlist5"/>
  </tractor>
+ <producer id="producer56" in="00:00:00.000" out="00:00:18.519">
+  <property name="length">556</property>
+  <property name="eof">pause</property>
+  <property name="resource">firebase_create_newnote.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">69</property>
+  <property name="kdenlive:file_size">157586</property>
+  <property name="kdenlive:file_hash">f517797dcdb99ce3edd29f926744d6cc</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30.0539</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">662</property>
+  <property name="meta.media.0.codec.height">468</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">30</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">64656</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.45.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">16740</property>
+  <property name="meta.media.frame_rate_den">557</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.width">662</property>
+  <property name="meta.media.height">468</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
  <playlist id="playlist6">
   <blank length="00:00:42.342"/>
   <entry producer="producer17" in="00:00:00.000" out="00:00:02.402">
@@ -2516,9 +2616,13 @@ your data would be&lt;/content>
   <entry producer="producer49" in="00:00:00.000" out="00:00:04.438">
    <property name="kdenlive:id">60</property>
   </entry>
+  <blank length="00:00:29.329"/>
+  <entry producer="producer56" in="00:00:00.000" out="00:00:18.519">
+   <property name="kdenlive:id">69</property>
+  </entry>
  </playlist>
  <playlist id="playlist7"/>
- <tractor id="tractor3" in="00:00:00.000" out="00:02:41.742">
+ <tractor id="tractor3" in="00:00:00.000" out="00:03:29.630">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:track_name">v3</property>
@@ -2528,7 +2632,7 @@ your data would be&lt;/content>
   <track hide="audio" producer="playlist6"/>
   <track hide="both" producer="playlist7"/>
  </tractor>
- <producer id="producer55" in="00:00:00.000" out="00:00:00.567">
+ <producer id="producer57" in="00:00:00.000" out="00:00:00.567">
   <property name="length">18</property>
   <property name="eof">pause</property>
   <property name="resource">animations/popups.gif</property>
@@ -2585,29 +2689,17 @@ your data would be&lt;/content>
    <property name="distort">0</property>
   </filter>
  </producer>
- <producer id="producer56" in="00:00:00.000" out="00:00:28.061">
-  <property name="length">842</property>
+ <producer id="producer58" in="00:00:00.000" out="00:00:07.908">
+  <property name="length">239</property>
   <property name="eof">pause</property>
-  <property name="resource">mobile_create_newnote.mp4</property>
-  <property name="audio_index">-1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
+  <property name="resource">2.000000:mobile_create_newnote.mp4</property>
   <property name="aspect_ratio">1</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">67</property>
-  <property name="kdenlive:file_size">169946</property>
-  <property name="kdenlive:file_hash">b1b0512be638de903b2acb37d4e7bc78</property>
-  <property name="global_feed">1</property>
-  <property name="xml">was here</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">video</property>
-  <property name="meta.media.0.stream.frame_rate">30.0356</property>
+  <property name="meta.media.0.stream.frame_rate">30.0629</property>
   <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.0.codec.width">360</property>
-  <property name="meta.media.0.codec.height">638</property>
+  <property name="meta.media.0.codec.width">362</property>
+  <property name="meta.media.0.codec.height">640</property>
   <property name="meta.media.0.codec.rotate">0</property>
   <property name="meta.media.0.codec.frame_rate">30</property>
   <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
@@ -2616,25 +2708,82 @@ your data would be&lt;/content>
   <property name="meta.media.0.codec.color_trc">1</property>
   <property name="meta.media.0.codec.name">h264</property>
   <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="meta.media.0.codec.bit_rate">45297</property>
+  <property name="meta.media.0.codec.bit_rate">44195</property>
   <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
   <property name="meta.attr.major_brand.markup">isom</property>
   <property name="meta.attr.minor_version.markup">512</property>
   <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
   <property name="meta.attr.encoder.markup">Lavf58.45.100</property>
+  <property name="seekable">1</property>
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
-  <property name="meta.media.frame_rate_num">8440</property>
-  <property name="meta.media.frame_rate_den">281</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="warp_speed">2</property>
+  <property name="warp_resource">mobile_create_newnote.mp4</property>
+  <property name="mlt_service">timewarp</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+  <property name="kdenlive:id">68</property>
+  <property name="warp_pitch">0</property>
+  <property name="meta.media.frame_rate_num">4780</property>
+  <property name="meta.media.frame_rate_den">159</property>
   <property name="meta.media.colorspace">709</property>
   <property name="meta.media.color_trc">1</property>
-  <property name="meta.media.width">360</property>
-  <property name="meta.media.height">638</property>
+  <property name="meta.media.width">362</property>
+  <property name="meta.media.height">640</property>
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer59" in="00:00:00.000" out="00:26:29.963">
+  <property name="length">47700</property>
+  <property name="eof">pause</property>
+  <property name="resource">0.010000:mobile_create_newnote.mp4</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30.0629</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">362</property>
+  <property name="meta.media.0.codec.height">640</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">30</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">44195</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.45.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="warp_speed">0.01</property>
+  <property name="warp_resource">mobile_create_newnote.mp4</property>
+  <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
+  <property name="kdenlive:id">68</property>
+  <property name="warp_pitch">0</property>
+  <property name="meta.media.frame_rate_num">4780</property>
+  <property name="meta.media.frame_rate_den">159</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.width">362</property>
+  <property name="meta.media.height">640</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
  </producer>
  <playlist id="playlist8">
   <blank length="00:00:01.935"/>
@@ -2685,7 +2834,7 @@ your data would be&lt;/content>
   <entry producer="producer14" in="00:00:00.000" out="00:00:01.134">
    <property name="kdenlive:id">20</property>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter10">
     <property name="rotate_center">1</property>
@@ -2698,7 +2847,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter11">
     <property name="rotate_center">1</property>
@@ -2711,7 +2860,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter12">
     <property name="rotate_center">1</property>
@@ -2724,7 +2873,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter13">
     <property name="rotate_center">1</property>
@@ -2737,7 +2886,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter14">
     <property name="rotate_center">1</property>
@@ -2750,7 +2899,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter15">
     <property name="rotate_center">1</property>
@@ -2763,7 +2912,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter16">
     <property name="rotate_center">1</property>
@@ -2776,7 +2925,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter17">
     <property name="rotate_center">1</property>
@@ -2789,7 +2938,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter18">
     <property name="rotate_center">1</property>
@@ -2802,7 +2951,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter19">
     <property name="rotate_center">1</property>
@@ -2815,7 +2964,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter20">
     <property name="rotate_center">1</property>
@@ -2828,7 +2977,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.467">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.467">
    <property name="kdenlive:id">24</property>
    <filter id="filter21">
     <property name="rotate_center">1</property>
@@ -2841,7 +2990,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter22">
     <property name="rotate_center">1</property>
@@ -2854,7 +3003,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter23">
     <property name="rotate_center">1</property>
@@ -2867,7 +3016,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter24">
     <property name="rotate_center">1</property>
@@ -2880,7 +3029,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter25">
     <property name="rotate_center">1</property>
@@ -2893,7 +3042,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter26">
     <property name="rotate_center">1</property>
@@ -2906,7 +3055,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">24</property>
    <filter id="filter27">
     <property name="rotate_center">1</property>
@@ -2919,7 +3068,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer55" in="00:00:00.000" out="00:00:00.400">
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.400">
    <property name="kdenlive:id">24</property>
    <filter id="filter28">
     <property name="rotate_center">1</property>
@@ -3001,12 +3150,15 @@ your data would be&lt;/content>
    </filter>
   </entry>
   <blank length="00:00:34.968"/>
-  <entry producer="producer56" in="00:00:00.000" out="00:00:28.061">
-   <property name="kdenlive:id">67</property>
+  <entry producer="producer58" in="00:00:00.000" out="00:00:06.173">
+   <property name="kdenlive:id">68</property>
+  </entry>
+  <entry producer="producer59" in="00:20:41.241" out="00:21:07.908">
+   <property name="kdenlive:id">68</property>
   </entry>
  </playlist>
  <playlist id="playlist9"/>
- <tractor id="tractor4" in="00:00:00.000" out="00:03:05.372">
+ <tractor id="tractor4" in="00:00:00.000" out="00:03:10.177">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:thumbs_format"/>
@@ -3015,7 +3167,7 @@ your data would be&lt;/content>
   <track hide="audio" producer="playlist8"/>
   <track hide="both" producer="playlist9"/>
  </tractor>
- <producer id="producer57" in="00:00:00.000" out="00:00:53.253">
+ <producer id="producer60" in="00:00:00.000" out="00:00:53.253">
   <property name="length">1597</property>
   <property name="eof">pause</property>
   <property name="resource">mobile_login_and_create.mp4</property>
@@ -3066,7 +3218,7 @@ your data would be&lt;/content>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer58" in="00:00:00.000" out="00:00:23.323">
+ <producer id="producer61" in="00:00:00.000" out="00:00:23.323">
   <property name="length">700</property>
   <property name="eof">pause</property>
   <property name="resource">2.500000:mobile_create_journal.mp4</property>
@@ -3116,7 +3268,7 @@ your data would be&lt;/content>
  </producer>
  <playlist id="playlist10">
   <blank length="00:00:57.324"/>
-  <entry producer="producer57" in="00:00:05.405" out="00:00:27.895">
+  <entry producer="producer60" in="00:00:05.405" out="00:00:27.895">
    <property name="kdenlive:id">34</property>
    <filter id="filter32">
     <property name="rotate_center">1</property>
@@ -3129,7 +3281,7 @@ your data would be&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer57" in="00:00:29.162" out="00:00:37.437">
+  <entry producer="producer60" in="00:00:29.162" out="00:00:37.437">
    <property name="kdenlive:id">34</property>
    <filter id="filter33">
     <property name="rotate_center">1</property>
@@ -3143,7 +3295,7 @@ your data would be&lt;/content>
    </filter>
   </entry>
   <blank length="00:00:16.950"/>
-  <entry producer="producer58" in="00:00:01.235" out="00:00:18.418">
+  <entry producer="producer61" in="00:00:01.235" out="00:00:18.418">
    <property name="kdenlive:id">45</property>
    <filter id="filter34">
     <property name="rotate_center">1</property>
@@ -3169,7 +3321,7 @@ your data would be&lt;/content>
   <track hide="both" producer="playlist11"/>
  </tractor>
  <playlist id="timeline_preview"/>
- <tractor id="tractor6" global_feed="1" in="00:00:00.000" out="00:19:49.950">
+ <tractor id="tractor6" global_feed="1" in="00:00:00.000" out="00:20:10.644">
   <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
