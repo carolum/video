@@ -126,17 +126,23 @@
   <property name="kdenlive:duration">00:00:00.667</property>
   <property name="kdenlive:clipname">CAROLUM3</property>
   <property name="xmldata">&lt;kdenlivetitle duration="20" LC_NUMERIC="C" width="1920" height="1080" out="19">
- &lt;item type="QGraphicsTextItem" z-index="8">
-  &lt;position x="442" y="765">
+ &lt;item type="QGraphicsTextItem" z-index="11">
+  &lt;position x="838" y="809">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="163" font="Georgia" letter-spacing="0" font-pixel-size="142" font-italic="0" alignment="2" font-weight="25" box-width="493.859" font-color="0,0,0,255">modern&lt;/content>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="163" font="Georgia" letter-spacing="0" font-pixel-size="142" font-italic="0" alignment="2" font-weight="25" box-width="457.5" font-color="0,0,0,255">flexible&lt;/content>
  &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="7">
-  &lt;position x="202" y="765">
+ &lt;item type="QGraphicsTextItem" z-index="10">
+  &lt;position x="1420" y="809">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="163" font="Georgia" letter-spacing="0" font-pixel-size="142" font-italic="0" alignment="2" font-weight="25" box-width="1504.47" font-color="0,0,0,255">the                 journal app&lt;/content>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="163" font="Georgia" letter-spacing="0" font-pixel-size="142" font-italic="0" alignment="2" font-weight="25" box-width="402.953" font-color="0,0,0,255">secure&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="9">
+  &lt;position x="97" y="809">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="163" font="Georgia" letter-spacing="0" font-pixel-size="142" font-italic="0" alignment="2" font-weight="25" box-width="622.219" font-color="0,0,0,255">accessible&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsPixmapItem" z-index="5">
   &lt;position x="208" y="351">
@@ -211,8 +217,8 @@
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
- <producer id="producer7" in="00:00:00.000" out="00:00:04.972">
-  <property name="length">150</property>
+ <producer id="producer7" in="00:00:00.000" out="00:00:07.674">
+  <property name="length">231</property>
   <property name="eof">pause</property>
   <property name="resource"/>
   <property name="progressive">1</property>
@@ -226,28 +232,25 @@
   &lt;position x="188" y="318">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="415" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="317.109" font-color="248,131,121,255">Reduced
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="332" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="317.109" font-color="248,131,121,255">Reduced
 Improved
 Reduced
-Higher
 Better&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="3">
   &lt;position x="208" y="318">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="415" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="943.938" font-color="0,0,0,255">                blood pressure
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="332" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="943.938" font-color="0,0,0,255">                blood pressure
                   lung/liver function 
                 depression
-             GPA
            working memory&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="191" y="113">
+  &lt;position x="193" y="157">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="166" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="1445.22" font-color="0,0,0,255">According to a 2005 study, health benefits of
-expressive writing include:&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="678.828" font-color="0,0,0,255">Expressive Writing =&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -277,13 +280,13 @@ expressive writing include:&lt;/content>
   &lt;position x="697" y="806">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font-outline-color="0,0,0,255" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" font-outline="0" box-width="832.766" font-color="248,131,121,255">more important than ever&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="832.766" font-color="248,131,121,255">more important than ever&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="6">
   &lt;position x="192" y="807">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="166" font-outline-color="0,0,0,255" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" font-outline="0" box-width="537.875" font-color="0,0,0,255">Which are now
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="166" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="537.875" font-color="0,0,0,255">Which are now
 in this pandemic&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="4">
@@ -307,10 +310,10 @@ Better&lt;/content>
            working memory&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="191" y="113">
+  &lt;position x="195" y="107">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="166" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="1445.22" font-color="0,0,0,255">According to a 2005 study, health benefits of
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="166" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="1258.7" font-color="0,0,0,255">According to a study, health benefits of
 expressive writing include:&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
@@ -368,17 +371,17 @@ expressive writing include:&lt;/content>
   <property name="kdenlive:clipname">so then 2</property>
   <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="C" width="1920" height="1080" out="149">
  &lt;item type="QGraphicsTextItem" z-index="2">
-  &lt;position x="773" y="483">
+  &lt;position x="773" y="481">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="262" font-outline-color="0,0,0,255" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="2" font-weight="25" font-outline="0" box-width="631.109" font-color="248,131,121,255">more people
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="262" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="2" font-weight="25" box-width="631.109" font-color="248,131,121,255">more people
 &lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="1">
-  &lt;position x="229" y="479">
+  &lt;position x="211" y="481">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="132" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="2" font-weight="25" box-width="1473.59" font-color="0,0,0,255">Why don't                        do it?&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="132" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="2" font-weight="25" box-width="1501.33" font-color="0,0,0,255">Why don't                         do it?&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="0">
   &lt;position x="627" y="311">
@@ -399,8 +402,8 @@ expressive writing include:&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
- <producer id="producer11" in="00:00:00.000" out="00:00:07.107">
-  <property name="length">214</property>
+ <producer id="producer11" in="00:00:00.000" out="00:00:07.975">
+  <property name="length">240</property>
   <property name="eof">pause</property>
   <property name="resource"/>
   <property name="progressive">1</property>
@@ -411,20 +414,20 @@ expressive writing include:&lt;/content>
   <property name="kdenlive:clipname">Three Bigges...</property>
   <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="C" width="1920" height="1080" out="149">
  &lt;item type="QGraphicsTextItem" z-index="2">
-  &lt;position x="293" y="265">
+  &lt;position x="193" y="318">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="570" font="Georgia" letter-spacing="0" font-pixel-size="100" font-italic="0" alignment="1" font-weight="25" box-width="1128.59" font-color="0,0,0,255">Distracting UIs
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="570" font="Georgia" letter-spacing="0" font-pixel-size="100" font-italic="0" alignment="1" font-weight="25" box-width="550.859" font-color="0,0,0,255">Accessibility
 
-One trick ponies
+Flexiblity
 
-Opaque data transactions&lt;/content>
+Security&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="1">
-  &lt;position x="194" y="109">
+  &lt;position x="672" y="108">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="103" font-outline-color="0,0,0,255" font="Georgia" letter-spacing="0" font-pixel-size="90" font-italic="0" alignment="1" font-weight="25" font-outline="0" box-width="1520.72" font-color="0,0,0,255">Three Biggest Issues (with other apps)&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font-outline-color="0,0,0,255" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="1" font-weight="25" font-outline="0" box-width="575.484" font-color="0,0,0,255">Carolum&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -487,13 +490,13 @@ Opaque data transactions&lt;/content>
   <property name="kdenlive:clipname">Distracting transition</property>
   <property name="xmldata">&lt;kdenlivetitle duration="30" LC_NUMERIC="C" width="1920" height="1080" out="29">
  &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="470" y="443">
+  &lt;position x="549" y="463">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="946.766" font-color="0,0,0,255">Distracting UI&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="826.297" font-color="0,0,0,255">Accessibility&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
- &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
+ &lt;endviewport rect="419,339,2355.38,1324.9"/>
  &lt;background color="255,255,255,255"/>
 &lt;/kdenlivetitle>
 </property>
@@ -505,7 +508,7 @@ Opaque data transactions&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
- <producer id="producer13" in="00:00:00.000" out="00:00:04.972">
+ <producer id="producer24" in="00:00:00.000" out="00:00:04.972">
   <property name="length">150</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -517,10 +520,10 @@ Opaque data transactions&lt;/content>
   <property name="kdenlive:clipname">Distracting</property>
   <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
  &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="470" y="443">
+  &lt;position x="570" y="460">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="946.766" font-color="0,0,0,255">Distracting UI&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="826.297" font-color="0,0,0,255">Accessibility&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="0,0,1920,1080"/>
@@ -529,43 +532,7 @@ Opaque data transactions&lt;/content>
 </property>
   <property name="kdenlive:folderid">25</property>
   <property name="kdenlive:id">20</property>
-  <property name="kdenlive:file_hash">d6e3d69f963266edd80e907e62d6eab1</property>
-  <property name="force_reload">0</property>
-  <property name="global_feed">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
- </producer>
- <producer id="producer17" in="00:00:00.000" out="00:00:04.972">
-  <property name="length">150</property>
-  <property name="eof">pause</property>
-  <property name="resource"/>
-  <property name="progressive">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="seekable">1</property>
-  <property name="mlt_service">kdenlivetitle</property>
-  <property name="kdenlive:duration">00:00:05.005</property>
-  <property name="kdenlive:clipname">point 1</property>
-  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
- &lt;item type="QGraphicsTextItem" z-index="1">
-  &lt;position x="476" y="665">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="138" font-outline-color="0,0,0,255" font="Georgia" letter-spacing="0" font-pixel-size="120" font-italic="0" alignment="2" font-weight="25" font-outline="0" box-width="1837.56" font-color="0,0,0,255">Most apps on the market have ads.&lt;/content>
- &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="470" y="443">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="946.766" font-color="0,0,0,255">Distracting UI&lt;/content>
- &lt;/item>
- &lt;startviewport rect="0,0,1920,1080"/>
- &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
- &lt;background color="255,255,255,255"/>
-&lt;/kdenlivetitle>
-</property>
-  <property name="kdenlive:folderid">25</property>
-  <property name="kdenlive:id">21</property>
-  <property name="kdenlive:file_hash">a10b1e1e7dd9ad6d2d302b85a755806b</property>
+  <property name="kdenlive:file_hash">4a4b604c894351f9edf7861d449b26d2</property>
   <property name="force_reload">0</property>
   <property name="global_feed">1</property>
   <property name="meta.media.width">1920</property>
@@ -626,105 +593,7 @@ Opaque data transactions&lt;/content>
    <property name="kdenlive:collapsed">0</property>
   </filter>
  </producer>
- <producer id="producer18" in="00:00:00.000" out="00:00:04.972">
-  <property name="length">150</property>
-  <property name="eof">pause</property>
-  <property name="resource"/>
-  <property name="progressive">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="seekable">1</property>
-  <property name="mlt_service">kdenlivetitle</property>
-  <property name="kdenlive:duration">00:00:05.005</property>
-  <property name="kdenlive:clipname">point 2</property>
-  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
- &lt;item type="QGraphicsTextItem" z-index="2">
-  &lt;position x="656" y="828">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="106" font="Georgia" letter-spacing="0" font-pixel-size="92" font-italic="0" alignment="2" font-weight="25" box-width="1656.59" font-color="0,0,0,255">They're so colorful! And annoying to see!&lt;/content>
- &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="1">
-  &lt;position x="476" y="665">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="680" font="Georgia" letter-spacing="0" font-pixel-size="120" font-italic="0" alignment="1" font-weight="25" box-width="1837.56" font-color="0,0,0,255">Most apps on the market have ads.
-
-
-
-They also take too long to use.&lt;/content>
- &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="470" y="443">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="946.766" font-color="0,0,0,255">Distracting UI&lt;/content>
- &lt;/item>
- &lt;startviewport rect="0,0,1920,1080"/>
- &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
- &lt;background color="255,255,255,255"/>
-&lt;/kdenlivetitle>
-</property>
-  <property name="kdenlive:folderid">25</property>
-  <property name="kdenlive:id">24</property>
-  <property name="kdenlive:file_hash">03eb8c998070d72d10dab8ab380abf0e</property>
-  <property name="force_reload">0</property>
-  <property name="global_feed">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
- </producer>
- <producer id="producer19" in="00:00:00.000" out="00:00:04.972">
-  <property name="length">150</property>
-  <property name="eof">pause</property>
-  <property name="resource"/>
-  <property name="progressive">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="seekable">1</property>
-  <property name="mlt_service">kdenlivetitle</property>
-  <property name="kdenlive:duration">00:00:05.005</property>
-  <property name="kdenlive:clipname">point 2.5</property>
-  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
- &lt;item type="QGraphicsTextItem" z-index="3">
-  &lt;position x="656" y="828">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="106" font="Georgia" letter-spacing="0" font-pixel-size="92" font-italic="0" alignment="2" font-weight="25" box-width="1656.59" font-color="0,0,0,255">They're so colorful! And annoying to see!&lt;/content>
- &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="2">
-  &lt;position x="586" y="1391">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="114" font="Georgia" letter-spacing="0" font-pixel-size="100" font-italic="0" alignment="2" font-weight="25" box-width="1568.52" font-color="0,0,0,255">Paywalls, complicated accounts, etc&lt;/content>
- &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="1">
-  &lt;position x="476" y="665">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="680" font="Georgia" letter-spacing="0" font-pixel-size="120" font-italic="0" alignment="1" font-weight="25" box-width="1837.56" font-color="0,0,0,255">Most apps on the market have ads.
-
-
-
-They also take too long to use.&lt;/content>
- &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="470" y="443">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="946.766" font-color="0,0,0,255">Distracting UI&lt;/content>
- &lt;/item>
- &lt;startviewport rect="0,0,1920,1080"/>
- &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
- &lt;background color="255,255,255,255"/>
-&lt;/kdenlivetitle>
-</property>
-  <property name="kdenlive:folderid">25</property>
-  <property name="kdenlive:id">26</property>
-  <property name="kdenlive:file_hash">fe74f91a13348c2329a0f52a7f8ed356</property>
-  <property name="force_reload">0</property>
-  <property name="global_feed">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
- </producer>
- <producer id="producer20" in="00:00:00.000" out="00:00:05.005">
+ <producer id="producer64" in="00:00:00.000" out="00:00:05.005">
   <property name="length">151</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -739,7 +608,7 @@ They also take too long to use.&lt;/content>
   &lt;position x="470" y="443">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="767.25" font-color="0,0,0,255">Friendly UI&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="669.344" font-color="0,0,0,255">Simple UI&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
@@ -748,7 +617,7 @@ They also take too long to use.&lt;/content>
 </property>
   <property name="kdenlive:folderid">25</property>
   <property name="kdenlive:id">27</property>
-  <property name="kdenlive:file_hash">695b9badbe5a49d079a4476c986dc0b2</property>
+  <property name="kdenlive:file_hash">14881dbd8cb83475519483e4515a456a</property>
   <property name="force_reload">0</property>
   <property name="global_feed">1</property>
   <property name="meta.media.width">1920</property>
@@ -791,7 +660,7 @@ They also take too long to use.&lt;/content>
   &lt;position x="470" y="443">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="946.766" font-color="0,0,0,255">Distracting UI&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="826.297" font-color="0,0,0,255">Accessibility&lt;/content>
  &lt;/item>
  &lt;startviewport rect="340,318,2355,1324"/>
  &lt;endviewport rect="-2000,318,2355.38,1324.9"/>
@@ -821,7 +690,7 @@ They also take too long to use.&lt;/content>
   &lt;position x="470" y="443">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="767.25" font-color="0,0,0,255">Friendly UI&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="669.344" font-color="0,0,0,255">Simple UI&lt;/content>
  &lt;/item>
  &lt;startviewport rect="2000,318,2355,1324"/>
  &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
@@ -836,49 +705,7 @@ They also take too long to use.&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
- <producer id="producer23" in="00:00:00.000" out="00:00:04.972">
-  <property name="length">150</property>
-  <property name="eof">pause</property>
-  <property name="resource"/>
-  <property name="progressive">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="seekable">1</property>
-  <property name="mlt_service">kdenlivetitle</property>
-  <property name="kdenlive:duration">00:00:05.005</property>
-  <property name="kdenlive:clipname">point 1.5</property>
-  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
- &lt;item type="QGraphicsTextItem" z-index="2">
-  &lt;position x="656" y="828">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="106" font="Georgia" letter-spacing="0" font-pixel-size="92" font-italic="0" alignment="2" font-weight="25" box-width="1656.59" font-color="0,0,0,255">They're so colorful! And annoying to see!&lt;/content>
- &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="1">
-  &lt;position x="476" y="665">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="138" font="Georgia" letter-spacing="0" font-pixel-size="120" font-italic="0" alignment="2" font-weight="25" box-width="1837.56" font-color="0,0,0,255">Most apps on the market have ads.&lt;/content>
- &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="470" y="443">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="946.766" font-color="0,0,0,255">Distracting UI&lt;/content>
- &lt;/item>
- &lt;startviewport rect="0,0,1920,1080"/>
- &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
- &lt;background color="255,255,255,255"/>
-&lt;/kdenlivetitle>
-</property>
-  <property name="kdenlive:folderid">25</property>
-  <property name="kdenlive:id">30</property>
-  <property name="kdenlive:file_hash">f7167d73c26dc1ee5da81c909579aac7</property>
-  <property name="force_reload">0</property>
-  <property name="global_feed">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
- </producer>
- <producer id="producer24" in="00:00:00.000" out="00:00:50.651">
+ <producer id="producer65" in="00:00:00.000" out="00:00:50.651">
   <property name="length">1519</property>
   <property name="eof">pause</property>
   <property name="resource"/>
@@ -890,7 +717,7 @@ They also take too long to use.&lt;/content>
   <property name="kdenlive:clipname">carolumgud1.5</property>
   <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
  &lt;item type="QGraphicsTextItem" z-index="1">
-  &lt;position x="1265" y="443">
+  &lt;position x="1180" y="443">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
   &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="667.75" font-color="248,131,121,255">- Carolum&lt;/content>
@@ -899,7 +726,7 @@ They also take too long to use.&lt;/content>
   &lt;position x="470" y="443">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="803.422" font-color="0,0,0,255">Friendly UI &lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="705.516" font-color="0,0,0,255">Simple UI &lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
  &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
@@ -908,7 +735,7 @@ They also take too long to use.&lt;/content>
 </property>
   <property name="kdenlive:folderid">25</property>
   <property name="kdenlive:id">31</property>
-  <property name="kdenlive:file_hash">360cda20d4968c284c6741f17139decc</property>
+  <property name="kdenlive:file_hash">6f974adaed2b947c8d1117dcb5e485a9</property>
   <property name="force_reload">0</property>
   <property name="global_feed">1</property>
   <property name="meta.media.width">1920</property>
@@ -1029,83 +856,6 @@ They also take too long to use.&lt;/content>
   <property name="kdenlive:file_hash">b1723e5576a958324787c22e68df42c0</property>
   <property name="global_feed">1</property>
  </producer>
- <producer id="producer27" in="00:00:00.000" out="00:00:50.651">
-  <property name="length">1519</property>
-  <property name="eof">pause</property>
-  <property name="resource"/>
-  <property name="progressive">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="seekable">1</property>
-  <property name="mlt_service">kdenlivetitle</property>
-  <property name="kdenlive:duration">00:00:50.684</property>
-  <property name="kdenlive:clipname">carolumgud2</property>
-  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
- &lt;item type="QGraphicsTextItem" z-index="2">
-  &lt;position x="474" y="677">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="524" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="1" font-weight="25" box-width="1306.58" font-color="0,0,0,255">- No advertisements
-
-- Journalling right as you 
-open the app&lt;/content>
- &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="1">
-  &lt;position x="1265" y="443">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="667.75" font-color="248,131,121,255">- Carolum&lt;/content>
- &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="470" y="443">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="803.422" font-color="0,0,0,255">Friendly UI &lt;/content>
- &lt;/item>
- &lt;startviewport rect="0,0,1920,1080"/>
- &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
- &lt;background color="255,255,255,255"/>
-&lt;/kdenlivetitle>
-</property>
-  <property name="kdenlive:folderid">25</property>
-  <property name="kdenlive:id">35</property>
-  <property name="kdenlive:file_hash">7df54fa78c491e9721c2971c71530380</property>
-  <property name="force_reload">0</property>
-  <property name="global_feed">1</property>
-  <property name="kdenlive:zone_in">172</property>
-  <property name="kdenlive:zone_out">1519</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
- </producer>
- <producer id="producer29" in="00:00:00.000" out="00:00:04.972">
-  <property name="length">150</property>
-  <property name="eof">pause</property>
-  <property name="resource"/>
-  <property name="progressive">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="seekable">1</property>
-  <property name="mlt_service">kdenlivetitle</property>
-  <property name="kdenlive:duration">00:00:05.005</property>
-  <property name="kdenlive:clipname">otp</property>
-  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
- &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="395" y="447">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="1133.88" font-color="0,0,0,255">One Trick Ponies&lt;/content>
- &lt;/item>
- &lt;startviewport rect="0,0,1920,1080"/>
- &lt;endviewport rect="0,0,1920,1080"/>
- &lt;background color="255,255,255,255"/>
-&lt;/kdenlivetitle>
-</property>
-  <property name="kdenlive:folderid">44</property>
-  <property name="kdenlive:id">36</property>
-  <property name="kdenlive:file_hash">0efd2cb46893a32dc77436f4495acd84</property>
-  <property name="force_reload">0</property>
-  <property name="global_feed">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
- </producer>
  <producer id="producer28" in="00:00:00.000" out="00:00:07.107">
   <property name="length">214</property>
   <property name="eof">pause</property>
@@ -1164,56 +914,19 @@ Opaque data transactions&lt;/content>
   <property name="kdenlive:clipname">otp transition</property>
   <property name="xmldata">&lt;kdenlivetitle duration="30" LC_NUMERIC="C" width="1920" height="1080" out="29">
  &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="395" y="447">
+  &lt;position x="625" y="460">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="1133.88" font-color="0,0,0,255">One Trick Ponies&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="668.313" font-color="0,0,0,255">Flexibility&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
- &lt;endviewport rect="275,318,2355,1344"/>
+ &lt;endviewport rect="505,336,2355,1344"/>
  &lt;background color="255,255,255,255"/>
 &lt;/kdenlivetitle>
 </property>
   <property name="kdenlive:folderid">44</property>
   <property name="kdenlive:id">38</property>
   <property name="kdenlive:file_hash">00cb00100d0b5f03ae47467a7f8002c1</property>
-  <property name="force_reload">0</property>
-  <property name="global_feed">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
- </producer>
- <producer id="producer32" in="00:00:00.000" out="00:00:15.716">
-  <property name="length">472</property>
-  <property name="eof">pause</property>
-  <property name="resource"/>
-  <property name="progressive">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="seekable">1</property>
-  <property name="mlt_service">kdenlivetitle</property>
-  <property name="kdenlive:duration">00:00:15.749</property>
-  <property name="kdenlive:clipname">point 1</property>
-  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
- &lt;item type="QGraphicsTextItem" z-index="1">
-  &lt;position x="406" y="681">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="262" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="1" font-weight="25" box-width="2008.73" font-color="0,0,0,255">Most apps only let you save notes about
-one topic, or into one journal&lt;/content>
- &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="395" y="447">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="1133.88" font-color="0,0,0,255">One Trick Ponies&lt;/content>
- &lt;/item>
- &lt;startviewport rect="275,318,2355,1344"/>
- &lt;endviewport rect="275,318,2355,1344"/>
- &lt;background color="255,255,255,255"/>
-&lt;/kdenlivetitle>
-</property>
-  <property name="kdenlive:folderid">44</property>
-  <property name="kdenlive:id">39</property>
-  <property name="kdenlive:file_hash">a7b6e71b01097a6b40b3bbb0655868c1</property>
   <property name="force_reload">0</property>
   <property name="global_feed">1</property>
   <property name="meta.media.width">1920</property>
@@ -1231,17 +944,16 @@ one topic, or into one journal&lt;/content>
   <property name="kdenlive:clipname">point 1 slideout</property>
   <property name="xmldata">&lt;kdenlivetitle duration="37" LC_NUMERIC="C" width="1920" height="1080" out="36">
  &lt;item type="QGraphicsTextItem" z-index="1">
-  &lt;position x="406" y="681">
+  &lt;position x="400" y="665">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="262" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="1" font-weight="25" box-width="2008.73" font-color="0,0,0,255">Most apps only let you save notes about
-one topic, or into one journal&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="132" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="1" font-weight="25" box-width="1341.55" font-color="0,0,0,255">- No way to organize notes&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="0">
   &lt;position x="395" y="447">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="1133.88" font-color="0,0,0,255">One Trick Ponies&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="668.313" font-color="0,0,0,255">Flexibility&lt;/content>
  &lt;/item>
  &lt;startviewport rect="275,318,2355,1344"/>
  &lt;endviewport rect="-2000,318,2355,1344"/>
@@ -1271,7 +983,7 @@ one topic, or into one journal&lt;/content>
   &lt;position x="395" y="447">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="973.5" font-color="0,0,0,255">Stay organized&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="585.422" font-color="0,0,0,255">Versatile&lt;/content>
  &lt;/item>
  &lt;startviewport rect="2000,318,2355,1344"/>
  &lt;endviewport rect="275,318,2355,1344"/>
@@ -1301,7 +1013,7 @@ one topic, or into one journal&lt;/content>
   &lt;position x="395" y="447">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="973.5" font-color="0,0,0,255">Stay organized&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="585.422" font-color="0,0,0,255">Versatile&lt;/content>
  &lt;/item>
  &lt;startviewport rect="275,318,2355,1344"/>
  &lt;endviewport rect="275,318,2355,1344"/>
@@ -1375,17 +1087,12 @@ one topic, or into one journal&lt;/content>
   <property name="kdenlive:duration">00:00:01.235</property>
   <property name="kdenlive:clipname">cg2 p2</property>
   <property name="xmldata">&lt;kdenlivetitle duration="37" LC_NUMERIC="C" width="1920" height="1080" out="36">
- &lt;item type="QGraphicsTextItem" z-index="8">
-  &lt;position x="513" y="1215">
+ &lt;item type="QGraphicsTextItem" z-index="9">
+  &lt;position x="389" y="1058">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="132" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="2" font-weight="25" box-width="359.547" font-color="248,131,121,255">recipes&lt;/content>
- &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="7">
-  &lt;position x="1074" y="1085">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="132" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="2" font-weight="25" box-width="820.547" font-color="248,131,121,255">notes from class&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="262" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="1" font-weight="25" box-width="1388.14" font-color="0,0,0,255">Separate journals, different
+topics&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="6">
   &lt;position x="570" y="828">
@@ -1401,7 +1108,7 @@ one topic, or into one journal&lt;/content>
   &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="132" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="2" font-weight="25" box-width="425.109" font-color="248,131,121,255">together&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="4">
-  &lt;position x="1405" y="445">
+  &lt;position x="1030" y="447">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
   &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="667.75" font-color="248,131,121,255">- Carolum&lt;/content>
@@ -1411,13 +1118,6 @@ one topic, or into one journal&lt;/content>
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
   &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="106" font="Georgia" letter-spacing="0" font-pixel-size="92" font-italic="0" alignment="2" font-weight="25" box-width="1243.25" font-color="0,0,0,255">                    journal possibilities&lt;/content>
- &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="2">
-  &lt;position x="390" y="1083">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="262" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="1" font-weight="25" box-width="1548.42" font-color="0,0,0,255">Use them for                               ,
-to              !&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="1">
   &lt;position x="389" y="675">
@@ -1429,7 +1129,7 @@ to              !&lt;/content>
   &lt;position x="395" y="447">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="973.5" font-color="0,0,0,255">Stay organized&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="585.422" font-color="0,0,0,255">Versatile&lt;/content>
  &lt;/item>
  &lt;startviewport rect="275,318,2355,1344"/>
  &lt;endviewport rect="275,318,2355,1344"/>
@@ -1456,7 +1156,7 @@ to              !&lt;/content>
   <property name="kdenlive:clipname">cg2 p1.5</property>
   <property name="xmldata">&lt;kdenlivetitle duration="37" LC_NUMERIC="C" width="1920" height="1080" out="36">
  &lt;item type="QGraphicsTextItem" z-index="1">
-  &lt;position x="1406" y="447">
+  &lt;position x="1030" y="447">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
   &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="667.75" font-color="248,131,121,255">- Carolum&lt;/content>
@@ -1465,7 +1165,7 @@ to              !&lt;/content>
   &lt;position x="395" y="447">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="1009.67" font-color="0,0,0,255">Stay organized &lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="621.594" font-color="0,0,0,255">Versatile &lt;/content>
  &lt;/item>
  &lt;startviewport rect="275,318,2355,1344"/>
  &lt;endviewport rect="275,318,2355,1344"/>
@@ -1532,36 +1232,6 @@ Opaque data transactions&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
- <producer id="producer39" in="00:00:00.000" out="00:00:04.972">
-  <property name="length">150</property>
-  <property name="eof">pause</property>
-  <property name="resource"/>
-  <property name="progressive">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="seekable">1</property>
-  <property name="mlt_service">kdenlivetitle</property>
-  <property name="kdenlive:duration">00:00:05.005</property>
-  <property name="kdenlive:clipname">opd intro</property>
-  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
- &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="255" y="478">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font-outline-color="0,0,0,255" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" font-outline="0" box-width="1410.72" font-color="0,0,0,255">Opaque data transactions&lt;/content>
- &lt;/item>
- &lt;startviewport rect="0,0,1920,1080"/>
- &lt;endviewport rect="0,0,1920,1080"/>
- &lt;background color="255,255,255,255"/>
-&lt;/kdenlivetitle>
-</property>
-  <property name="kdenlive:folderid">49</property>
-  <property name="kdenlive:id">48</property>
-  <property name="kdenlive:file_hash">9a60d85edd65868c6b16d1fba34cb863</property>
-  <property name="force_reload">0</property>
-  <property name="global_feed">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
- </producer>
  <producer id="producer40" in="00:00:00.000" out="00:00:04.972">
   <property name="length">150</property>
   <property name="eof">pause</property>
@@ -1574,13 +1244,13 @@ Opaque data transactions&lt;/content>
   <property name="kdenlive:clipname">opd transition</property>
   <property name="xmldata">&lt;kdenlivetitle duration="30" LC_NUMERIC="C" width="1920" height="1080" out="29">
  &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="255" y="478">
+  &lt;position x="715" y="477">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="1410.72" font-color="0,0,0,255">Opaque data transactions&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="453.656" font-color="0,0,0,255">Security&lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
- &lt;endviewport rect="145,340,2355,1344"/>
+ &lt;endviewport rect="629,353,2355,1344"/>
  &lt;background color="255,255,255,255"/>
 &lt;/kdenlivetitle>
 </property>
@@ -1607,7 +1277,7 @@ Opaque data transactions&lt;/content>
   &lt;position x="255" y="478">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="1410.72" font-color="0,0,0,255">Opaque data transactions&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="453.656" font-color="0,0,0,255">Security&lt;/content>
  &lt;/item>
  &lt;startviewport rect="145,340,2355,1344"/>
  &lt;endviewport rect="145,340,2355,1344"/>
@@ -1637,14 +1307,14 @@ Opaque data transactions&lt;/content>
   &lt;position x="258" y="662">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="250" font-outline-color="0,0,0,255" font="Georgia" letter-spacing="0" font-pixel-size="110" font-italic="0" alignment="1" font-weight="25" font-outline="0" box-width="1881.95" font-color="0,0,0,255">Q: What really happens to your private
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="250" font="Georgia" letter-spacing="0" font-pixel-size="110" font-italic="0" alignment="1" font-weight="25" box-width="1881.95" font-color="0,0,0,255">Q: What really happens to your private
 data?&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="0">
   &lt;position x="255" y="478">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="1410.72" font-color="0,0,0,255">Opaque data transactions&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="453.656" font-color="0,0,0,255">Security&lt;/content>
  &lt;/item>
  &lt;startviewport rect="145,340,2355,1344"/>
  &lt;endviewport rect="145,340,2355,1344"/>
@@ -1682,7 +1352,7 @@ A: Nobody knows!&lt;/content>
   &lt;position x="255" y="478">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="1410.72" font-color="0,0,0,255">Opaque data transactions&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="453.656" font-color="0,0,0,255">Security&lt;/content>
  &lt;/item>
  &lt;startviewport rect="145,340,2355,1344"/>
  &lt;endviewport rect="145,340,2355,1344"/>
@@ -1720,7 +1390,7 @@ A: Nobody knows!&lt;/content>
   &lt;position x="255" y="478">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="1410.72" font-color="0,0,0,255">Opaque data transactions&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="453.656" font-color="0,0,0,255">Security&lt;/content>
  &lt;/item>
  &lt;startviewport rect="145,340,2355,1344"/>
  &lt;endviewport rect="145,340,2355,1344"/>
@@ -1760,7 +1430,7 @@ Hackers LOVE unsecured data!&lt;/content>
   &lt;position x="255" y="478">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="1410.72" font-color="0,0,0,255">Opaque data transactions&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="453.656" font-color="0,0,0,255">Security&lt;/content>
  &lt;/item>
  &lt;startviewport rect="145,340,2355,1344"/>
  &lt;endviewport rect="145,340,2355,1344"/>
@@ -1800,7 +1470,7 @@ Hackers LOVE unsecured data!&lt;/content>
   &lt;position x="255" y="478">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="1410.72" font-color="0,0,0,255">Opaque data transactions&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="453.656" font-color="0,0,0,255">Security&lt;/content>
  &lt;/item>
  &lt;startviewport rect="145,340,2355,1344"/>
  &lt;endviewport rect="-2300,340,2355,1344"/>
@@ -2537,6 +2207,823 @@ the web and desktops&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
+ <producer id="producer13" in="00:00:00.000" out="00:00:07.674">
+  <property name="length">231</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:clipname">at1</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="C" width="1920" height="1080" out="149">
+ &lt;item type="QGraphicsTextItem" z-index="5">
+  &lt;position x="156" y="106">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="721.734" font-color="0,0,0,255">According to research,&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="4">
+  &lt;position x="878" y="353">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="280.719" font-color="248,131,121,255">Reduced&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="3">
+  &lt;position x="1182" y="353">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="494.625" font-color="0,0,0,255">blood pressure &lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="156" y="518">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="678.828" font-color="0,0,0,255">Expressive Writing =&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">16</property>
+  <property name="kdenlive:id">73</property>
+  <property name="kdenlive:file_hash">ab5073a73ae48b4f3d66774794342a94</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer17" in="00:00:00.000" out="00:00:07.674">
+  <property name="length">231</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:clipname">at2</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="C" width="1920" height="1080" out="149">
+ &lt;item type="QGraphicsTextItem" z-index="7">
+  &lt;position x="156" y="106">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="721.734" font-color="0,0,0,255">According to research,&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="6">
+  &lt;position x="1212" y="463">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="609.656" font-color="0,0,0,255">lung/liver function&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="5">
+  &lt;position x="878" y="463">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="317.109" font-color="248,131,121,255">Improved&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="4">
+  &lt;position x="878" y="353">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="280.719" font-color="248,131,121,255">Reduced&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="3">
+  &lt;position x="1182" y="353">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="494.625" font-color="0,0,0,255">blood pressure &lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="156" y="518">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="678.828" font-color="0,0,0,255">Expressive Writing =&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">16</property>
+  <property name="kdenlive:id">74</property>
+  <property name="kdenlive:file_hash">61957673fb7aaff42706d82e0f85fd1d</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer18" in="00:00:00.000" out="00:00:07.674">
+  <property name="length">231</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:clipname">at3</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="C" width="1920" height="1080" out="149">
+ &lt;item type="QGraphicsTextItem" z-index="9">
+  &lt;position x="156" y="106">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="721.734" font-color="0,0,0,255">According to research,&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="8">
+  &lt;position x="1178" y="573">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="350.969" font-color="0,0,0,255">depression&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="7">
+  &lt;position x="878" y="573">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="280.719" font-color="248,131,121,255">Reduced&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="6">
+  &lt;position x="1212" y="463">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="609.656" font-color="0,0,0,255">lung/liver function&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="5">
+  &lt;position x="878" y="463">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="317.109" font-color="248,131,121,255">Improved&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="4">
+  &lt;position x="878" y="353">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="280.719" font-color="248,131,121,255">Reduced&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="3">
+  &lt;position x="1182" y="353">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="494.625" font-color="0,0,0,255">blood pressure &lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="156" y="518">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="678.828" font-color="0,0,0,255">Expressive Writing =&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">16</property>
+  <property name="kdenlive:id">75</property>
+  <property name="kdenlive:file_hash">7cb807ee14fa331867be20efe0b2ff3c</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer19" in="00:00:00.000" out="00:00:07.674">
+  <property name="length">231</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:clipname">at4</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="C" width="1920" height="1080" out="149">
+ &lt;item type="QGraphicsTextItem" z-index="13">
+  &lt;position x="156" y="106">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="721.734" font-color="0,0,0,255">According to research,&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="12">
+  &lt;position x="1101" y="683">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="551.438" font-color="0,0,0,255">working memory&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="10">
+  &lt;position x="878" y="683">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="198.547" font-color="248,131,121,255">Better&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="8">
+  &lt;position x="1178" y="573">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="350.969" font-color="0,0,0,255">depression&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="7">
+  &lt;position x="878" y="573">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="280.719" font-color="248,131,121,255">Reduced&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="6">
+  &lt;position x="1212" y="463">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="609.656" font-color="0,0,0,255">lung/liver function&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="5">
+  &lt;position x="878" y="463">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="317.109" font-color="248,131,121,255">Improved&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="4">
+  &lt;position x="878" y="353">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="280.719" font-color="248,131,121,255">Reduced&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="3">
+  &lt;position x="1182" y="353">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="494.625" font-color="0,0,0,255">blood pressure &lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="156" y="518">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="678.828" font-color="0,0,0,255">Expressive Writing =&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">16</property>
+  <property name="kdenlive:id">76</property>
+  <property name="kdenlive:file_hash">30c2f7c1162f157b1e3f0f157839e4bd</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer20" in="00:00:00.000" out="00:00:07.674">
+  <property name="length">231</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:clipname">at0</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="C" width="1920" height="1080" out="149">
+ &lt;item type="QGraphicsTextItem" z-index="5">
+  &lt;position x="156" y="106">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="721.734" font-color="0,0,0,255">According to research,&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="156" y="518">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="678.828" font-color="0,0,0,255">Expressive Writing =&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">16</property>
+  <property name="kdenlive:id">77</property>
+  <property name="kdenlive:file_hash">241115bb402f6905645710189921728c</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer23" in="00:00:00.000" out="00:00:07.674">
+  <property name="length">231</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:clipname">at5</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="C" width="1920" height="1080" out="149">
+ &lt;item type="QGraphicsTextItem" z-index="15">
+  &lt;position x="663" y="849">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font-outline-color="0,0,0,255" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" font-outline="0" box-width="832.766" font-color="248,131,121,255">more important than ever&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="14">
+  &lt;position x="154" y="849">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="166" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="537.875" font-color="0,0,0,255">Which are now
+in this pandemic&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="13">
+  &lt;position x="156" y="106">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="721.734" font-color="0,0,0,255">According to research,&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="12">
+  &lt;position x="1101" y="683">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="551.438" font-color="0,0,0,255">working memory&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="10">
+  &lt;position x="878" y="683">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="198.547" font-color="248,131,121,255">Better&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="8">
+  &lt;position x="1178" y="573">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="350.969" font-color="0,0,0,255">depression&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="7">
+  &lt;position x="878" y="573">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="280.719" font-color="248,131,121,255">Reduced&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="6">
+  &lt;position x="1212" y="463">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="609.656" font-color="0,0,0,255">lung/liver function&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="5">
+  &lt;position x="878" y="463">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="2" font-weight="25" box-width="317.109" font-color="248,131,121,255">Improved&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="4">
+  &lt;position x="878" y="353">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="280.719" font-color="248,131,121,255">Reduced&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="3">
+  &lt;position x="1182" y="353">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="494.625" font-color="0,0,0,255">blood pressure &lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="156" y="518">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="83" font="Georgia" letter-spacing="0" font-pixel-size="73" font-italic="0" alignment="1" font-weight="25" box-width="678.828" font-color="0,0,0,255">Expressive Writing =&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">16</property>
+  <property name="kdenlive:id">78</property>
+  <property name="kdenlive:file_hash">03a6887c2cd7d9d2c1057c2e72cb4714</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer27" in="00:00:00.000" out="00:00:50.651">
+  <property name="length">1519</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">00:00:00.000</property>
+  <property name="kdenlive:clipname">carolumgud2</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="530" y="677">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="655" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="1" font-weight="25" box-width="1250.11" font-color="0,0,0,255">- No advertisements
+
+- No paywalls
+
+- No complicated sign-in&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="1">
+  &lt;position x="1180" y="443">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="667.75" font-color="248,131,121,255">- Carolum&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="470" y="443">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="705.516" font-color="0,0,0,255">Simple UI &lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">25</property>
+  <property name="kdenlive:id">35</property>
+  <property name="kdenlive:file_hash">23ba6d452b655709a441ebcb62891cc4</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="kdenlive:zone_in">172</property>
+  <property name="kdenlive:zone_out">1519</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer29" in="00:00:00.000" out="00:00:04.972">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">00:00:00.000</property>
+  <property name="kdenlive:clipname">point 1</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
+ &lt;item type="QGraphicsTextItem" z-index="1">
+  &lt;position x="476" y="665">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="138" font="Georgia" letter-spacing="0" font-pixel-size="120" font-italic="0" alignment="2" font-weight="25" box-width="904.234" font-color="0,0,0,255">- Advertisements&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="470" y="443">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="826.297" font-color="0,0,0,255">Accessibility&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">25</property>
+  <property name="kdenlive:id">21</property>
+  <property name="kdenlive:file_hash">bcb8b1b354a8ab3b10e404318c21ae4a</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer32" in="00:00:00.000" out="00:00:04.972">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">00:00:00.000</property>
+  <property name="kdenlive:clipname">point 1.5</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="656" y="828">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="106" font="Georgia" letter-spacing="0" font-pixel-size="92" font-italic="0" alignment="2" font-weight="25" box-width="1656.59" font-color="0,0,0,255">They're so colorful! And annoying to see!&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="1">
+  &lt;position x="476" y="665">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="138" font="Georgia" letter-spacing="0" font-pixel-size="120" font-italic="0" alignment="2" font-weight="25" box-width="904.234" font-color="0,0,0,255">- Advertisements&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="470" y="443">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="826.297" font-color="0,0,0,255">Accessibility&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">25</property>
+  <property name="kdenlive:id">30</property>
+  <property name="kdenlive:file_hash">8fce704e752a39acc069afc9ebaecf9f</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer39" in="00:00:00.000" out="00:00:04.972">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">00:00:00.000</property>
+  <property name="kdenlive:clipname">point 2.5</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
+ &lt;item type="QGraphicsTextItem" z-index="3">
+  &lt;position x="656" y="828">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="106" font="Georgia" letter-spacing="0" font-pixel-size="92" font-italic="0" alignment="2" font-weight="25" box-width="1656.59" font-color="0,0,0,255">They're so colorful! And annoying to see!&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="476" y="1058">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="408" font="Georgia" letter-spacing="0" font-pixel-size="120" font-italic="0" alignment="1" font-weight="25" box-width="1238.8" font-color="0,0,0,255">- Paywalls
+
+- Complicated accounts&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="1">
+  &lt;position x="476" y="665">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="138" font="Georgia" letter-spacing="0" font-pixel-size="120" font-italic="0" alignment="1" font-weight="25" box-width="904.234" font-color="0,0,0,255">- Advertisements&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="470" y="443">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="826.297" font-color="0,0,0,255">Accessibility&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">25</property>
+  <property name="kdenlive:id">26</property>
+  <property name="kdenlive:file_hash">8dbcaac0a6544b8ce7594a347cf78149</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer61" in="00:00:00.000" out="00:00:04.972">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">00:00:00.000</property>
+  <property name="kdenlive:clipname">point 2</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
+ &lt;item type="QGraphicsTextItem" z-index="3">
+  &lt;position x="476" y="1058">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="138" font="Georgia" letter-spacing="0" font-pixel-size="120" font-italic="0" alignment="2" font-weight="25" box-width="535.953" font-color="0,0,0,255">- Paywalls&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="656" y="828">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="106" font="Georgia" letter-spacing="0" font-pixel-size="92" font-italic="0" alignment="2" font-weight="25" box-width="1656.59" font-color="0,0,0,255">They're so colorful! And annoying to see!&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="1">
+  &lt;position x="476" y="665">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="408" font="Georgia" letter-spacing="0" font-pixel-size="120" font-italic="0" alignment="1" font-weight="25" box-width="904.234" font-color="0,0,0,255">- Advertisements
+
+&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="470" y="443">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="826.297" font-color="0,0,0,255">Accessibility&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">25</property>
+  <property name="kdenlive:id">24</property>
+  <property name="kdenlive:file_hash">60a9797ba286fbd161fad5fd30fd85f7</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer62" in="00:00:00.000" out="00:00:07.975">
+  <property name="length">240</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:clipname">p1 done real</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="C" width="1920" height="1080" out="149">
+ &lt;item type="QGraphicsTextItem" z-index="3">
+  &lt;position x="769" y="318">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="114" font-outline-color="0,0,0,255" font="Georgia" letter-spacing="0" font-pixel-size="100" font-italic="0" alignment="2" font-weight="25" font-outline="0" box-width="507.719" font-color="248,131,121,255">- Simple UI&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="193" y="318">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="570" font="Georgia" letter-spacing="0" font-pixel-size="100" font-italic="0" alignment="1" font-weight="25" box-width="550.859" font-color="0,0,0,255">Accessibility
+
+Flexiblity
+
+Security&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="1">
+  &lt;position x="672" y="108">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="1" font-weight="25" box-width="575.484" font-color="0,0,0,255">Carolum&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">22</property>
+  <property name="kdenlive:id">79</property>
+  <property name="kdenlive:file_hash">d15d1cc8da732148c043994f8b46b593</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer63" in="00:00:00.000" out="00:00:04.972">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">00:00:00.000</property>
+  <property name="kdenlive:clipname">otp</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="630" y="460">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="668.313" font-color="0,0,0,255">Flexibility&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">44</property>
+  <property name="kdenlive:id">36</property>
+  <property name="kdenlive:file_hash">83bd57fa991ee3c9334a9e7112e7f30e</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer66" in="00:00:00.000" out="00:00:15.716">
+  <property name="length">472</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">00:00:00.000</property>
+  <property name="kdenlive:clipname">point 1</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
+ &lt;item type="QGraphicsTextItem" z-index="1">
+  &lt;position x="400" y="665">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="132" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="1" font-weight="25" box-width="1341.55" font-color="0,0,0,255">- No way to organize notes&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="395" y="447">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="668.313" font-color="0,0,0,255">Flexibility&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="275,318,2355,1344"/>
+ &lt;endviewport rect="275,323,2355,1344"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">44</property>
+  <property name="kdenlive:id">39</property>
+  <property name="kdenlive:file_hash">d8167e1c87dd18af3ad6cfb1837b785b</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer67" in="00:00:00.000" out="00:00:07.975">
+  <property name="length">240</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">150</property>
+  <property name="kdenlive:clipname">p2 done real</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="C" width="1920" height="1080" out="149">
+ &lt;item type="QGraphicsTextItem" z-index="4">
+  &lt;position x="638" y="546">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content shadow="0;#64000000;3;3;3" font-underline="0" box-height="114" font-outline-color="0,0,0,255" font="Georgia" letter-spacing="0" font-pixel-size="100" font-italic="0" alignment="2" font-weight="25" font-outline="0" box-width="838.719" font-color="248,131,121,255">- Versatile journals&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="3">
+  &lt;position x="769" y="318">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="114" font="Georgia" letter-spacing="0" font-pixel-size="100" font-italic="0" alignment="2" font-weight="25" box-width="507.719" font-color="248,131,121,255">- Simple UI&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="193" y="318">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="570" font="Georgia" letter-spacing="0" font-pixel-size="100" font-italic="0" alignment="1" font-weight="25" box-width="550.859" font-color="0,0,0,255">Accessibility
+
+Flexiblity
+
+Security&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="1">
+  &lt;position x="672" y="108">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="1" font-weight="25" box-width="575.484" font-color="0,0,0,255">Carolum&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">22</property>
+  <property name="kdenlive:id">80</property>
+  <property name="kdenlive:file_hash">b72db155d9734d9d5d8247e9932cdc37</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
+ <producer id="producer68" in="00:00:00.000" out="00:00:04.972">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">00:00:00.000</property>
+  <property name="kdenlive:clipname">opd intro</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="680" y="477">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="143" font="Georgia" letter-spacing="0" font-pixel-size="125" font-italic="0" alignment="2" font-weight="25" box-width="453.656" font-color="0,0,0,255">Security&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">49</property>
+  <property name="kdenlive:id">48</property>
+  <property name="kdenlive:file_hash">9404efcb953d11a6acfbe892064a8c76</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
  <playlist id="main_bin">
   <property name="kdenlive:folder.-1.4">Intro</property>
   <property name="kdenlive:folder.-1.6">audio</property>
@@ -2564,7 +3051,7 @@ the web and desktops&lt;/content>
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.08.2</property>
-  <property name="kdenlive:docproperties.position">2514</property>
+  <property name="kdenlive:docproperties.position">4148</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension">mov</property>
   <property name="kdenlive:docproperties.previewparameters">r=29.97 s=1920x1080 vb=45M threads=0 vcodec=dnxhd progressive=1</property>
@@ -2595,15 +3082,15 @@ the web and desktops&lt;/content>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">/home/boshua/Videos/video.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
-  <property name="kdenlive:docproperties.scrollPos">4625</property>
+  <property name="kdenlive:docproperties.scrollPos">4401</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">-1</property>
+  <property name="kdenlive:docproperties.videoTarget">2</property>
   <property name="kdenlive:docproperties.zonein">4867</property>
   <property name="kdenlive:docproperties.zoneout">4942</property>
-  <property name="kdenlive:docproperties.zoom">5</property>
-  <property name="kdenlive:expandedFolders">4;16;17;25</property>
+  <property name="kdenlive:docproperties.zoom">6</property>
+  <property name="kdenlive:expandedFolders">22;49</property>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
   <entry producer="producer1" in="00:00:00.000" out="00:04:38.105"/>
@@ -2612,31 +3099,24 @@ the web and desktops&lt;/content>
   <entry producer="producer2" in="00:00:00.000" out="00:02:26.426"/>
   <entry producer="producer3" in="00:00:00.000" out="00:00:06.006"/>
   <entry producer="producer6" in="00:00:00.000" out="00:00:04.972"/>
-  <entry producer="producer7" in="00:00:00.000" out="00:00:04.972"/>
+  <entry producer="producer7" in="00:00:00.000" out="00:00:07.674"/>
   <entry producer="producer8" in="00:00:00.000" out="00:00:08.509"/>
   <entry producer="producer10" in="00:00:00.000" out="00:00:04.972"/>
   <entry producer="producer9" in="00:00:00.000" out="00:00:04.972"/>
   <entry producer="producer11" in="00:00:00.000" out="00:00:07.107"/>
   <entry producer="producer12" in="00:00:00.000" out="00:00:07.107"/>
   <entry producer="producer14" in="00:00:00.000" out="00:00:04.972"/>
-  <entry producer="producer13" in="00:00:00.000" out="00:00:04.972"/>
-  <entry producer="producer17" in="00:00:00.000" out="00:00:04.972"/>
+  <entry producer="producer24" in="00:00:00.000" out="00:00:04.972"/>
   <entry producer="producer16" in="00:00:00.000" out="00:00:00.567"/>
-  <entry producer="producer18" in="00:00:00.000" out="00:00:04.972"/>
-  <entry producer="producer19" in="00:00:00.000" out="00:00:04.972"/>
-  <entry producer="producer20" in="00:00:00.000" out="00:00:05.005"/>
+  <entry producer="producer64" in="00:00:00.000" out="00:00:05.005"/>
   <entry producer="producer21" in="00:00:00.000" out="00:00:04.972"/>
   <entry producer="producer34" in="00:00:00.000" out="00:00:05.005"/>
-  <entry producer="producer23" in="00:00:00.000" out="00:00:04.972"/>
-  <entry producer="producer24" in="00:00:00.000" out="00:00:50.651"/>
+  <entry producer="producer65" in="00:00:00.000" out="00:00:50.651"/>
   <entry producer="producer15" in="00:00:00.000" out="00:01:04.805"/>
   <entry producer="producer25" in="00:00:00.000" out="00:00:53.253"/>
   <entry producer="producer26" in="00:00:00.000" out="00:01:00.601"/>
-  <entry producer="producer27" in="00:00:00.000" out="00:00:50.651"/>
-  <entry producer="producer29" in="00:00:00.000" out="00:00:04.972"/>
   <entry producer="producer28" in="00:00:00.000" out="00:00:07.107"/>
   <entry producer="producer30" in="00:00:00.000" out="00:00:15.716"/>
-  <entry producer="producer32" in="00:00:00.000" out="00:00:15.716"/>
   <entry producer="producer31" in="00:00:00.000" out="00:00:15.716"/>
   <entry producer="producer33" in="00:00:00.000" out="00:00:15.716"/>
   <entry producer="producer22" in="00:00:00.000" out="00:00:29.863"/>
@@ -2644,7 +3124,6 @@ the web and desktops&lt;/content>
   <entry producer="producer36" in="00:00:00.000" out="00:00:29.863"/>
   <entry producer="producer37" in="00:00:00.000" out="00:00:29.863"/>
   <entry producer="producer38" in="00:00:00.000" out="00:00:07.107"/>
-  <entry producer="producer39" in="00:00:00.000" out="00:00:04.972"/>
   <entry producer="producer40" in="00:00:00.000" out="00:00:04.972"/>
   <entry producer="producer41" in="00:00:00.000" out="00:00:04.972"/>
   <entry producer="producer42" in="00:00:00.000" out="00:00:05.405"/>
@@ -2667,6 +3146,22 @@ the web and desktops&lt;/content>
   <entry producer="producer59" in="00:00:00.000" out="00:00:04.972"/>
   <entry producer="producer60" in="00:00:00.000" out="00:00:05.272"/>
   <entry producer="producer5" in="00:00:00.000" out="00:00:06.006"/>
+  <entry producer="producer13" in="00:00:00.000" out="00:00:07.674"/>
+  <entry producer="producer17" in="00:00:00.000" out="00:00:07.674"/>
+  <entry producer="producer18" in="00:00:00.000" out="00:00:07.674"/>
+  <entry producer="producer19" in="00:00:00.000" out="00:00:07.674"/>
+  <entry producer="producer20" in="00:00:00.000" out="00:00:07.674"/>
+  <entry producer="producer23" in="00:00:00.000" out="00:00:07.674"/>
+  <entry producer="producer27" in="00:00:00.000" out="00:00:50.651"/>
+  <entry producer="producer29" in="00:00:00.000" out="00:00:04.972"/>
+  <entry producer="producer32" in="00:00:00.000" out="00:00:04.972"/>
+  <entry producer="producer39" in="00:00:00.000" out="00:00:04.972"/>
+  <entry producer="producer61" in="00:00:00.000" out="00:00:04.972"/>
+  <entry producer="producer62" in="00:00:00.000" out="00:00:07.975"/>
+  <entry producer="producer63" in="00:00:00.000" out="00:00:04.972"/>
+  <entry producer="producer66" in="00:00:00.000" out="00:00:15.716"/>
+  <entry producer="producer67" in="00:00:00.000" out="00:00:07.975"/>
+  <entry producer="producer68" in="00:00:00.000" out="00:00:04.972"/>
  </playlist>
  <producer id="black_track" in="00:00:00.000" out="00:19:46.547">
   <property name="length">2147483647</property>
@@ -2710,7 +3205,7 @@ the web and desktops&lt;/content>
    <property name="disable">1</property>
   </filter>
  </tractor>
- <producer id="producer61" in="00:00:00.000" out="00:04:38.105">
+ <producer id="producer69" in="00:00:00.000" out="00:04:38.105">
   <property name="length">8335</property>
   <property name="eof">pause</property>
   <property name="resource">audio/midnight_rendezvous.mp3</property>
@@ -2744,7 +3239,7 @@ the web and desktops&lt;/content>
  </producer>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="producer61" in="00:00:02.936" out="00:03:00.167">
+  <entry producer="producer69" in="00:00:02.936" out="00:03:00.167">
    <property name="kdenlive:id">2</property>
    <filter id="filter4">
     <property name="window">75</property>
@@ -2755,7 +3250,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer61" in="00:04:30.364" out="00:04:38.105">
+  <entry producer="producer69" in="00:04:30.364" out="00:04:38.105">
    <property name="kdenlive:id">2</property>
    <filter id="filter5">
     <property name="window">75</property>
@@ -2800,10 +3295,10 @@ the web and desktops&lt;/content>
  </tractor>
  <playlist id="playlist4">
   <blank length="00:00:03.704"/>
-  <entry producer="producer2" in="00:00:00.000" out="00:00:15.616">
+  <entry producer="producer2" in="00:00:00.000" out="00:00:17.251">
    <property name="kdenlive:id">7</property>
   </entry>
-  <blank length="00:00:19.720"/>
+  <blank length="00:00:18.085"/>
   <entry producer="producer2" in="00:00:00.000" out="00:02:26.426">
    <property name="kdenlive:id">7</property>
   </entry>
@@ -2820,80 +3315,41 @@ the web and desktops&lt;/content>
  </tractor>
  <playlist id="playlist6">
   <blank length="00:00:42.342"/>
-  <entry producer="producer17" in="00:00:00.000" out="00:00:02.402">
+  <entry producer="producer29" in="00:00:00.000" out="00:00:02.402">
    <property name="kdenlive:id">21</property>
   </entry>
-  <entry producer="producer23" in="00:00:00.000" out="00:00:02.503">
+  <entry producer="producer32" in="00:00:00.000" out="00:00:02.503">
    <property name="kdenlive:id">30</property>
   </entry>
-  <entry producer="producer18" in="00:00:00.000" out="00:00:02.503">
+  <entry producer="producer61" in="00:00:00.000" out="00:00:02.503">
    <property name="kdenlive:id">24</property>
   </entry>
-  <entry producer="producer19" in="00:00:00.000" out="00:00:02.469">
+  <entry producer="producer39" in="00:00:00.000" out="00:00:02.469">
    <property name="kdenlive:id">26</property>
   </entry>
-  <blank length="00:00:03.237"/>
-  <entry producer="producer24" in="00:00:00.000" out="00:00:24.224">
+  <blank length="00:00:03.170"/>
+  <entry producer="producer65" in="00:00:00.000" out="00:00:14.281">
    <property name="kdenlive:id">31</property>
   </entry>
-  <entry producer="producer27" in="00:00:00.000" out="00:00:08.275">
+  <entry producer="producer27" in="00:00:00.000" out="00:00:04.972">
    <property name="kdenlive:id">35</property>
   </entry>
-  <blank length="00:00:14.348"/>
-  <entry producer="producer22" in="00:00:00.000" out="00:00:02.569">
-   <property name="kdenlive:id">42</property>
-  </entry>
+  <blank length="00:00:20.020"/>
   <entry producer="producer37" in="00:00:00.000" out="00:00:11.345">
    <property name="kdenlive:id">46</property>
   </entry>
-  <entry producer="producer36" in="00:00:00.000" out="00:00:05.806">
+  <entry producer="producer36" in="00:00:00.000" out="00:00:06.139">
    <property name="kdenlive:id">45</property>
   </entry>
-  <entry producer="producer28" in="00:00:00.000" out="00:00:02.002">
-   <property name="kdenlive:id">37</property>
-  </entry>
-  <entry producer="producer38" in="00:00:00.000" out="00:00:02.903">
-   <property name="kdenlive:id">47</property>
-  </entry>
-  <entry producer="producer39" in="00:00:00.000" out="00:00:02.503">
-   <property name="kdenlive:id">48</property>
-  </entry>
-  <entry producer="producer40" in="00:00:00.000" out="00:00:00.934">
-   <property name="kdenlive:id">50</property>
-  </entry>
-  <entry producer="producer41" in="00:00:00.000" out="00:00:01.568">
-   <property name="kdenlive:id">51</property>
-  </entry>
-  <entry producer="producer42" in="00:00:00.000" out="00:00:02.369">
-   <property name="kdenlive:id">52</property>
-  </entry>
-  <entry producer="producer43" in="00:00:00.000" out="00:00:02.603">
-   <property name="kdenlive:id">53</property>
-  </entry>
-  <entry producer="producer45" in="00:00:00.000" out="00:00:04.071">
-   <property name="kdenlive:id">55</property>
-  </entry>
-  <entry producer="producer46" in="00:00:00.000" out="00:00:00.968">
-   <property name="kdenlive:id">56</property>
-  </entry>
-  <entry producer="producer57" in="00:00:00.000" out="00:00:00.968">
-   <property name="kdenlive:id">57</property>
-  </entry>
-  <entry producer="producer48" in="00:00:00.000" out="00:00:01.268">
-   <property name="kdenlive:id">58</property>
-  </entry>
-  <entry producer="producer49" in="00:00:00.000" out="00:00:01.235">
-   <property name="kdenlive:id">59</property>
-  </entry>
-  <entry producer="producer50" in="00:00:00.000" out="00:00:03.637">
-   <property name="kdenlive:id">60</property>
-  </entry>
+  <blank length="00:00:33.133"/>
   <entry producer="producer51" in="00:00:00.000" out="00:00:02.803">
    <property name="kdenlive:id">61</property>
   </entry>
+  <blank length="00:00:01.869"/>
   <entry producer="producer52" in="00:00:00.000" out="00:00:04.638">
    <property name="kdenlive:id">62</property>
   </entry>
+  <blank length="00:00:02.369"/>
   <entry producer="producer49" in="00:00:00.000" out="00:00:12.513">
    <property name="kdenlive:id">59</property>
   </entry>
@@ -2937,7 +3393,7 @@ the web and desktops&lt;/content>
   <track hide="audio" producer="playlist6"/>
   <track hide="both" producer="playlist7"/>
  </tractor>
- <producer id="producer62" in="00:00:00.000" out="00:00:00.567">
+ <producer id="producer70" in="00:00:00.000" out="00:00:00.567">
   <property name="length">18</property>
   <property name="eof">pause</property>
   <property name="resource">animations/popups.gif</property>
@@ -3010,20 +3466,29 @@ the web and desktops&lt;/content>
   <entry producer="producer4" in="00:00:00.000" out="00:00:00.467">
    <property name="kdenlive:id">5</property>
   </entry>
-  <entry producer="producer3" in="00:00:00.000" out="00:00:03.136">
+  <entry producer="producer3" in="00:00:00.000" out="00:00:04.438">
    <property name="kdenlive:id">8</property>
-  </entry>
-  <entry producer="producer5" in="00:00:00.000" out="00:00:01.268">
-   <property name="kdenlive:id">71</property>
   </entry>
   <entry producer="producer6" in="00:00:00.000" out="00:00:03.604">
    <property name="kdenlive:id">9</property>
   </entry>
-  <entry producer="producer7" in="00:00:00.000" out="00:00:04.938">
-   <property name="kdenlive:id">10</property>
+  <entry producer="producer20" in="00:00:00.000" out="00:00:01.268">
+   <property name="kdenlive:id">77</property>
   </entry>
-  <entry producer="producer8" in="00:00:00.000" out="00:00:04.938">
-   <property name="kdenlive:id">11</property>
+  <entry producer="producer13" in="00:00:00.000" out="00:00:01.168">
+   <property name="kdenlive:id">73</property>
+  </entry>
+  <entry producer="producer17" in="00:00:00.000" out="00:00:01.368">
+   <property name="kdenlive:id">74</property>
+  </entry>
+  <entry producer="producer18" in="00:00:00.000" out="00:00:01.101">
+   <property name="kdenlive:id">75</property>
+  </entry>
+  <entry producer="producer19" in="00:00:00.000" out="00:00:01.335">
+   <property name="kdenlive:id">76</property>
+  </entry>
+  <entry producer="producer23" in="00:00:00.000" out="00:00:03.504">
+   <property name="kdenlive:id">78</property>
   </entry>
   <entry producer="producer10" in="00:00:00.000" out="00:00:01.235">
    <property name="kdenlive:id">13</property>
@@ -3037,13 +3502,13 @@ the web and desktops&lt;/content>
   <entry producer="producer12" in="00:00:00.000" out="00:00:05.439">
    <property name="kdenlive:id">18</property>
   </entry>
-  <entry producer="producer13" in="00:00:00.000" out="00:00:01.368">
+  <entry producer="producer24" in="00:00:00.000" out="00:00:01.368">
    <property name="kdenlive:id">20</property>
   </entry>
   <entry producer="producer14" in="00:00:00.000" out="00:00:01.134">
    <property name="kdenlive:id">19</property>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter12">
     <property name="rotate_center">1</property>
@@ -3056,7 +3521,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter13">
     <property name="rotate_center">1</property>
@@ -3069,7 +3534,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter14">
     <property name="rotate_center">1</property>
@@ -3082,7 +3547,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter15">
     <property name="rotate_center">1</property>
@@ -3095,7 +3560,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter16">
     <property name="rotate_center">1</property>
@@ -3108,7 +3573,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter17">
     <property name="rotate_center">1</property>
@@ -3121,7 +3586,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter18">
     <property name="rotate_center">1</property>
@@ -3134,7 +3599,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter19">
     <property name="rotate_center">1</property>
@@ -3147,7 +3612,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter20">
     <property name="rotate_center">1</property>
@@ -3160,7 +3625,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter21">
     <property name="rotate_center">1</property>
@@ -3173,7 +3638,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter22">
     <property name="rotate_center">1</property>
@@ -3186,7 +3651,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.467">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.467">
    <property name="kdenlive:id">23</property>
    <filter id="filter23">
     <property name="rotate_center">1</property>
@@ -3199,7 +3664,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter24">
     <property name="rotate_center">1</property>
@@ -3212,7 +3677,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter25">
     <property name="rotate_center">1</property>
@@ -3225,7 +3690,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter26">
     <property name="rotate_center">1</property>
@@ -3238,7 +3703,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter27">
     <property name="rotate_center">1</property>
@@ -3251,7 +3716,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter28">
     <property name="rotate_center">1</property>
@@ -3264,7 +3729,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.501">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.501">
    <property name="kdenlive:id">23</property>
    <filter id="filter29">
     <property name="rotate_center">1</property>
@@ -3277,7 +3742,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:00.400">
+  <entry producer="producer70" in="00:00:00.000" out="00:00:00.400">
    <property name="kdenlive:id">23</property>
    <filter id="filter30">
     <property name="rotate_center">1</property>
@@ -3297,45 +3762,32 @@ the web and desktops&lt;/content>
    <property name="kdenlive:id">29</property>
   </entry>
   <blank length="00:00:01.735"/>
-  <entry producer="producer26" in="00:00:00.000" out="00:00:22.489">
+  <entry producer="producer26" in="00:00:00.000" out="00:00:17.484">
    <property name="kdenlive:id">34</property>
    <filter id="filter31">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000=6 244 1690 951 1.000000;00:00:20.053=6 244 1690 951 1.000000;00:00:22.489=733 244 1690 951 1.000000</property>
-    <property name="rotation">00:00:00.000=0;00:00:20.053=0;00:00:22.489=0</property>
+    <property name="rect">00:00:00.000=6 244 1690 951 1.000000;00:00:09.977=6 244 1690 951 1.000000;00:00:12.513=733 244 1690 951 1.000000;00:00:17.384=733 244 1690 951 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:09.977=0;00:00:12.513=0;00:00:17.384=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer26" in="00:00:00.000" out="00:00:08.275">
-   <property name="kdenlive:id">34</property>
-   <filter id="filter32">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000=743 244 1690 951 1.000000</property>
-    <property name="rotation">00:00:00.000=0</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <entry producer="producer11" in="00:00:00.000" out="00:00:01.668">
+  <entry producer="producer11" in="00:00:00.000" out="00:00:02.503">
    <property name="kdenlive:id">15</property>
   </entry>
-  <entry producer="producer28" in="00:00:00.000" out="00:00:02.536">
-   <property name="kdenlive:id">37</property>
+  <entry producer="producer62" in="00:00:00.000" out="00:00:04.972">
+   <property name="kdenlive:id">79</property>
   </entry>
-  <entry producer="producer29" in="00:00:00.000" out="00:00:02.302">
+  <entry producer="producer63" in="00:00:00.000" out="00:00:02.302">
    <property name="kdenlive:id">36</property>
   </entry>
   <entry producer="producer30" in="00:00:00.000" out="00:00:01.134">
    <property name="kdenlive:id">38</property>
   </entry>
-  <entry producer="producer32" in="00:00:00.000" out="00:00:04.004">
+  <entry producer="producer66" in="00:00:00.000" out="00:00:04.004">
    <property name="kdenlive:id">39</property>
   </entry>
   <entry producer="producer31" in="00:00:00.000" out="00:00:01.201">
@@ -3344,9 +3796,12 @@ the web and desktops&lt;/content>
   <entry producer="producer33" in="00:00:00.000" out="00:00:01.268">
    <property name="kdenlive:id">41</property>
   </entry>
-  <blank length="00:00:02.603"/>
-  <entry producer="producer26" in="00:00:00.000" out="00:00:17.184">
+  <entry producer="producer22" in="00:00:00.000" out="00:00:02.369">
+   <property name="kdenlive:id">42</property>
+  </entry>
+  <entry producer="producer26" in="00:00:00.000" out="00:00:17.518">
    <property name="kdenlive:id">34</property>
+   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter33">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
@@ -3358,7 +3813,46 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:00:34.968"/>
+  <entry producer="producer62" in="00:00:00.000" out="00:00:01.902">
+   <property name="kdenlive:id">79</property>
+  </entry>
+  <entry producer="producer67" in="00:00:00.000" out="00:00:02.769">
+   <property name="kdenlive:id">80</property>
+  </entry>
+  <entry producer="producer68" in="00:00:00.000" out="00:00:02.503">
+   <property name="kdenlive:id">48</property>
+  </entry>
+  <entry producer="producer40" in="00:00:00.000" out="00:00:00.934">
+   <property name="kdenlive:id">50</property>
+  </entry>
+  <entry producer="producer41" in="00:00:00.000" out="00:00:01.602">
+   <property name="kdenlive:id">51</property>
+  </entry>
+  <entry producer="producer42" in="00:00:00.000" out="00:00:02.636">
+   <property name="kdenlive:id">52</property>
+  </entry>
+  <entry producer="producer43" in="00:00:00.000" out="00:00:02.302">
+   <property name="kdenlive:id">53</property>
+  </entry>
+  <entry producer="producer45" in="00:00:00.000" out="00:00:03.003">
+   <property name="kdenlive:id">55</property>
+  </entry>
+  <entry producer="producer46" in="00:00:00.000" out="00:00:00.968">
+   <property name="kdenlive:id">56</property>
+  </entry>
+  <entry producer="producer57" in="00:00:00.000" out="00:00:00.968">
+   <property name="kdenlive:id">57</property>
+  </entry>
+  <entry producer="producer48" in="00:00:00.000" out="00:00:01.268">
+   <property name="kdenlive:id">58</property>
+  </entry>
+  <entry producer="producer49" in="00:00:00.000" out="00:00:01.235">
+   <property name="kdenlive:id">59</property>
+  </entry>
+  <entry producer="producer50" in="00:00:00.000" out="00:00:03.637">
+   <property name="kdenlive:id">60</property>
+  </entry>
+  <blank length="00:00:18.719"/>
   <entry producer="producer26" in="00:00:00.000" out="00:00:12.513">
    <property name="kdenlive:id">34</property>
    <filter id="filter34">
@@ -3383,23 +3877,11 @@ the web and desktops&lt;/content>
   <track hide="audio" producer="playlist8"/>
   <track hide="both" producer="playlist9"/>
  </tractor>
- <producer id="producer63" in="00:00:00.000" out="00:00:53.253">
-  <property name="length">1597</property>
+ <producer id="producer71" in="00:00:00.000" out="00:00:26.627">
+  <property name="length">799</property>
   <property name="eof">pause</property>
-  <property name="resource">mobile_login_and_create.mp4</property>
-  <property name="audio_index">-1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
+  <property name="resource">2.000000:mobile_login_and_create.mp4</property>
   <property name="aspect_ratio">1</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">33</property>
-  <property name="kdenlive:file_size">240161</property>
-  <property name="kdenlive:file_hash">3e1e03fb484284d4b8d6656d4b0b9445</property>
-  <property name="global_feed">1</property>
-  <property name="xml">was here</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">30.0188</property>
@@ -3420,8 +3902,19 @@ the web and desktops&lt;/content>
   <property name="meta.attr.minor_version.markup">512</property>
   <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
   <property name="meta.attr.encoder.markup">Lavf58.45.100</property>
+  <property name="seekable">1</property>
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="warp_speed">2</property>
+  <property name="warp_resource">mobile_login_and_create.mp4</property>
+  <property name="mlt_service">timewarp</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+  <property name="kdenlive:id">33</property>
+  <property name="warp_pitch">0</property>
   <property name="meta.media.frame_rate_num">16000</property>
   <property name="meta.media.frame_rate_den">533</property>
   <property name="meta.media.colorspace">709</property>
@@ -3431,10 +3924,56 @@ the web and desktops&lt;/content>
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer72" in="00:00:00.000" out="02:57:37.304">
+  <property name="length">319400</property>
+  <property name="eof">pause</property>
+  <property name="resource">0.005000:mobile_login_and_create.mp4</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30.0188</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">340</property>
+  <property name="meta.media.0.codec.height">602</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">30</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">33107</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf58.45.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="warp_speed">0.005</property>
+  <property name="warp_resource">mobile_login_and_create.mp4</property>
+  <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
+  <property name="kdenlive:id">33</property>
+  <property name="warp_pitch">0</property>
+  <property name="meta.media.frame_rate_num">16000</property>
+  <property name="meta.media.frame_rate_den">533</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.width">340</property>
+  <property name="meta.media.height">602</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer64" in="00:00:00.000" out="00:00:23.323">
+ <producer id="producer73" in="00:00:00.000" out="00:00:23.323">
   <property name="length">700</property>
   <property name="eof">pause</property>
   <property name="resource">2.500000:mobile_create_journal.mp4</property>
@@ -3482,7 +4021,7 @@ the web and desktops&lt;/content>
   <property name="meta.media.progressive">1</property>
   <property name="kdenlive:id">43</property>
  </producer>
- <producer id="producer65" in="00:00:00.000" out="00:00:07.908">
+ <producer id="producer74" in="00:00:00.000" out="00:00:07.908">
   <property name="length">239</property>
   <property name="eof">pause</property>
   <property name="resource">2.000000:mobile_create_newnote.mp4</property>
@@ -3530,7 +4069,7 @@ the web and desktops&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer66" in="00:00:00.000" out="00:26:29.963">
+ <producer id="producer75" in="00:00:00.000" out="00:26:29.963">
   <property name="length">47700</property>
   <property name="eof">pause</property>
   <property name="resource">0.010000:mobile_create_newnote.mp4</property>
@@ -3580,35 +4119,36 @@ the web and desktops&lt;/content>
  </producer>
  <playlist id="playlist10">
   <blank length="00:00:57.324"/>
-  <entry producer="producer25" in="00:00:05.506" out="00:00:27.995">
+  <entry producer="producer71" in="00:00:03.203" out="00:00:16.950">
+   <property name="kdenlive:id">33</property>
+   <filter id="filter32">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:03.203=196 293 1305 734 1.000000;00:00:13.180=196 291 1311 737 1.000000;00:00:15.716=920 291 1313 738 1.000000;00:00:16.950=920 291 1313 738 1.000000</property>
+    <property name="rotation">00:00:03.203=0;00:00:13.180=0;00:00:15.716=0;00:00:16.950=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer72" in="01:53:13.080" out="01:53:16.783">
    <property name="kdenlive:id">33</property>
    <filter id="filter35">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:05.506=196 294 1305 734 1.000000;00:00:25.559=183 288 1332 749 1.000000;00:00:27.995=910 288 1332 749 1.000000</property>
-    <property name="rotation">00:00:05.506=0;00:00:25.559=0;00:00:27.995=0</property>
+    <property name="rect">01:53:13.080=920 291 1316 740 1.000000</property>
+    <property name="rotation">01:53:13.080=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer63" in="00:00:29.162" out="00:00:37.437">
-   <property name="kdenlive:id">33</property>
-   <filter id="filter36">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:29.162=933 295 1305 734 1.000000</property>
-    <property name="rotation">00:00:29.162=0</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <blank length="00:00:16.950"/>
-  <entry producer="producer64" in="00:00:01.235" out="00:00:18.418">
+  <blank length="00:00:20.020"/>
+  <entry producer="producer73" in="00:00:01.235" out="00:00:18.752">
    <property name="kdenlive:id">43</property>
+   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter37">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
@@ -3620,8 +4160,8 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:00:34.968"/>
-  <entry producer="producer65" in="00:00:01.301" out="00:00:06.340">
+  <blank length="00:00:44.878"/>
+  <entry producer="producer74" in="00:00:01.301" out="00:00:06.340">
    <property name="kdenlive:id">63</property>
    <filter id="filter38">
     <property name="rotate_center">1</property>
@@ -3646,7 +4186,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer66" in="00:20:41.308" out="00:20:48.749">
+  <entry producer="producer75" in="00:20:41.308" out="00:20:48.749">
    <property name="kdenlive:id">63</property>
    <filter id="filter40">
     <property name="rotate_center">1</property>
@@ -3683,7 +4223,7 @@ the web and desktops&lt;/content>
   <track hide="audio" producer="playlist10"/>
   <track hide="both" producer="playlist11"/>
  </tractor>
- <producer id="producer67" in="00:00:00.000" out="00:00:18.519">
+ <producer id="producer76" in="00:00:00.000" out="00:00:18.519">
   <property name="length">556</property>
   <property name="eof">pause</property>
   <property name="resource">firebase_create_newnote.mp4</property>
@@ -3736,7 +4276,7 @@ the web and desktops&lt;/content>
  </producer>
  <playlist id="playlist12">
   <blank length="00:02:37.304"/>
-  <entry producer="producer67" in="00:00:00.000" out="00:00:05.038">
+  <entry producer="producer76" in="00:00:00.000" out="00:00:05.038">
    <property name="kdenlive:id">64</property>
    <filter id="filter42">
     <property name="rotate_center">1</property>
@@ -3749,7 +4289,7 @@ the web and desktops&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer67" in="00:00:09.176" out="00:00:16.617">
+  <entry producer="producer76" in="00:00:09.176" out="00:00:16.617">
    <property name="kdenlive:id">64</property>
    <filter id="filter43">
     <property name="rotate_center">1</property>
@@ -3872,7 +4412,7 @@ the web and desktops&lt;/content>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter46">
+  <filter id="filter36">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="disable">1</property>
