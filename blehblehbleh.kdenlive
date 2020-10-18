@@ -89,7 +89,7 @@
   &lt;/position>
   &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="298" font="Georgia" letter-spacing="0" font-pixel-size="261" font-italic="0" alignment="2" font-weight="75" box-width="1483.23" font-color="0,0,0,255">      ROLUM&lt;/content>
  &lt;/item>
- &lt;startviewport rect="3.52633,1.34933,1915.47,1077.45"/>
+ &lt;startviewport rect="0,0,1915.47,1077.45"/>
  &lt;endviewport rect="-319.097,-3.22581,2551.11,1435"/>
  &lt;background color="255,255,255,255"/>
 &lt;/kdenlivetitle>
@@ -156,8 +156,8 @@
   &lt;/position>
   &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="298" font="Georgia" letter-spacing="0" font-pixel-size="261" font-italic="0" alignment="2" font-weight="75" box-width="1483.23" font-color="0,0,0,255">      ROLUM&lt;/content>
  &lt;/item>
- &lt;startviewport rect="-318.696,-4.20623,2545.7,1431.95"/>
- &lt;endviewport rect="-319.097,-3.22581,2547.96,1433.23"/>
+ &lt;startviewport rect="-319,-3,2551,1435"/>
+ &lt;endviewport rect="-319.097,-3.22581,2551,1435"/>
  &lt;background color="255,255,255,255"/>
 &lt;/kdenlivetitle>
 </property>
@@ -196,13 +196,13 @@
   &lt;position x="239" y="448">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="130" font="Georgia" letter-spacing="0" font-pixel-size="114" font-italic="0" alignment="2" font-weight="25" box-width="581.484" font-color="248,131,121,255">Journalling&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="130" font="Georgia" letter-spacing="0" font-pixel-size="114" font-italic="0" alignment="2" font-weight="25" box-width="548.875" font-color="248,131,121,255">Journaling&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="237" y="452">
+  &lt;position x="238" y="452">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="260" font="Georgia" letter-spacing="0" font-pixel-size="114" font-italic="0" alignment="1" font-weight="25" box-width="1460.28" font-color="0,0,0,255">                      is beneficial both
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="260" font="Georgia" letter-spacing="0" font-pixel-size="114" font-italic="0" alignment="1" font-weight="25" box-width="1432.8" font-color="0,0,0,255">                     is beneficial both
                    and                 .   &lt;/content>
  &lt;/item>
  &lt;startviewport rect="0,0,1920,1080"/>
@@ -454,10 +454,10 @@ Security&lt;/content>
   <property name="kdenlive:clipname">transition_beginning</property>
   <property name="xmldata">&lt;kdenlivetitle duration="150" LC_NUMERIC="C" width="1920" height="1080" out="149">
  &lt;item type="QGraphicsTextItem" z-index="3">
-  &lt;position x="348" y="533">
+  &lt;position x="328" y="533">
    &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
   &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="1223.48" font-color="248,131,121,255">excels in each one.&lt;/content>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="1266.61" font-color="248,131,121,255">excels in each area.&lt;/content>
  &lt;/item>
  &lt;item type="QGraphicsTextItem" z-index="1">
   &lt;position x="286" y="395">
@@ -882,6 +882,36 @@ Security&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
+ <producer id="producer27" in="00:00:00.000" out="00:00:50.651">
+  <property name="length">1519</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">00:00:50.684</property>
+  <property name="kdenlive:clipname">carolumgud1.5</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="470" y="443">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="826.297" font-color="0,0,0,255">Accessibility&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">25</property>
+  <property name="kdenlive:id">31</property>
+  <property name="kdenlive:file_hash">75294dccbbca76700b482369c1eb8203</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+ </producer>
  <producer id="producer15" in="00:00:00.000" out="00:01:04.805">
   <property name="length">1943</property>
   <property name="eof">pause</property>
@@ -996,6 +1026,48 @@ Security&lt;/content>
   <property name="kdenlive:file_size">73068</property>
   <property name="kdenlive:file_hash">b1723e5576a958324787c22e68df42c0</property>
   <property name="global_feed">1</property>
+ </producer>
+ <producer id="producer65" in="00:00:00.000" out="00:00:50.651">
+  <property name="length">1519</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">00:00:50.684</property>
+  <property name="kdenlive:clipname">carolumgud2</property>
+  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
+ &lt;item type="QGraphicsTextItem" z-index="2">
+  &lt;position x="530" y="677">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="655" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="1" font-weight="25" box-width="1250.11" font-color="0,0,0,255">- No advertisements
+
+- No paywalls
+
+- No complicated sign-in&lt;/content>
+ &lt;/item>
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="473" y="443">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="859.469" font-color="0,0,0,255">Accessibility &lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
+ &lt;background color="255,255,255,255"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:folderid">25</property>
+  <property name="kdenlive:id">35</property>
+  <property name="kdenlive:file_hash">57248fd51a43b6da370fd6274d9ed453</property>
+  <property name="force_reload">0</property>
+  <property name="global_feed">1</property>
+  <property name="kdenlive:zone_in">172</property>
+  <property name="kdenlive:zone_out">1519</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
  </producer>
  <producer id="producer63" in="00:00:00.000" out="00:00:04.972">
   <property name="length">150</property>
@@ -2144,8 +2216,8 @@ Opaque data transactions&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
- <producer id="producer58" in="00:00:00.000" out="00:00:09.610">
-  <property name="length">289</property>
+ <producer id="producer58" in="00:00:00.000" out="00:00:10.277">
+  <property name="length">309</property>
   <property name="eof">pause</property>
   <property name="resource"/>
   <property name="progressive">1</property>
@@ -3115,80 +3187,8 @@ journaling.&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
- <producer id="producer27" in="00:00:00.000" out="00:00:50.651">
-  <property name="length">1519</property>
-  <property name="eof">pause</property>
-  <property name="resource"/>
-  <property name="progressive">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="seekable">1</property>
-  <property name="mlt_service">kdenlivetitle</property>
-  <property name="kdenlive:duration">00:00:00.000</property>
-  <property name="kdenlive:clipname">carolumgud1.5</property>
-  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
- &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="470" y="443">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="826.297" font-color="0,0,0,255">Accessibility&lt;/content>
- &lt;/item>
- &lt;startviewport rect="0,0,1920,1080"/>
- &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
- &lt;background color="255,255,255,255"/>
-&lt;/kdenlivetitle>
-</property>
-  <property name="kdenlive:folderid">25</property>
-  <property name="kdenlive:id">31</property>
-  <property name="kdenlive:file_hash">75294dccbbca76700b482369c1eb8203</property>
-  <property name="force_reload">0</property>
-  <property name="global_feed">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
- </producer>
- <producer id="producer65" in="00:00:00.000" out="00:00:50.651">
-  <property name="length">1519</property>
-  <property name="eof">pause</property>
-  <property name="resource"/>
-  <property name="progressive">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="seekable">1</property>
-  <property name="mlt_service">kdenlivetitle</property>
-  <property name="kdenlive:duration">00:00:00.000</property>
-  <property name="kdenlive:clipname">carolumgud2</property>
-  <property name="xmldata">&lt;kdenlivetitle duration="0" LC_NUMERIC="C" width="1920" height="1080" out="-1">
- &lt;item type="QGraphicsTextItem" z-index="2">
-  &lt;position x="530" y="677">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="655" font="Georgia" letter-spacing="0" font-pixel-size="115" font-italic="0" alignment="1" font-weight="25" box-width="1250.11" font-color="0,0,0,255">- No advertisements
-
-- No paywalls
-
-- No complicated sign-in&lt;/content>
- &lt;/item>
- &lt;item type="QGraphicsTextItem" z-index="0">
-  &lt;position x="473" y="443">
-   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
-  &lt;/position>
-  &lt;content line-spacing="0" shadow="0;#64000000;3;3;3" font-underline="0" box-height="171" font="Georgia" letter-spacing="0" font-pixel-size="150" font-italic="0" alignment="2" font-weight="25" box-width="859.469" font-color="0,0,0,255">Accessibility &lt;/content>
- &lt;/item>
- &lt;startviewport rect="0,0,1920,1080"/>
- &lt;endviewport rect="340.625,318.75,2355.38,1324.9"/>
- &lt;background color="255,255,255,255"/>
-&lt;/kdenlivetitle>
-</property>
-  <property name="kdenlive:folderid">25</property>
-  <property name="kdenlive:id">35</property>
-  <property name="kdenlive:file_hash">57248fd51a43b6da370fd6274d9ed453</property>
-  <property name="force_reload">0</property>
-  <property name="global_feed">1</property>
-  <property name="kdenlive:zone_in">172</property>
-  <property name="kdenlive:zone_out">1519</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
- </producer>
- <producer id="producer74" in="00:00:00.000" out="00:00:05.472">
-  <property name="length">165</property>
+ <producer id="producer74" in="00:00:00.000" out="00:00:05.539">
+  <property name="length">167</property>
   <property name="eof">pause</property>
   <property name="resource"/>
   <property name="progressive">1</property>
@@ -3224,6 +3224,32 @@ Google Firebase&lt;/content>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
+ <producer id="producer75" in="00:00:00.000" out="00:00:04.972">
+  <property name="length">00:00:05.005</property>
+  <property name="eof">pause</property>
+  <property name="resource">0x000000ff</property>
+  <property name="aspect_ratio">1</property>
+  <property name="mlt_service">color</property>
+  <property name="kdenlive:clipname">black</property>
+  <property name="kdenlive:duration">00:00:05.005</property>
+  <property name="kdenlive:folderid">22</property>
+  <property name="kdenlive:id">87</property>
+  <property name="mlt_image_format">rgb24</property>
+  <property name="kdenlive:file_hash">9196813120dc5c505072516b15baf414</property>
+ </producer>
+ <producer id="producer76" in="00:00:00.000" out="00:00:04.972">
+  <property name="length">00:00:05.005</property>
+  <property name="eof">pause</property>
+  <property name="resource">0x000000ff</property>
+  <property name="aspect_ratio">1</property>
+  <property name="mlt_service">color</property>
+  <property name="kdenlive:clipname">Color Clip</property>
+  <property name="kdenlive:duration">00:00:05.005</property>
+  <property name="kdenlive:folderid">17</property>
+  <property name="kdenlive:id">88</property>
+  <property name="mlt_image_format">rgb24</property>
+  <property name="kdenlive:file_hash">9196813120dc5c505072516b15baf414</property>
+ </producer>
  <playlist id="main_bin">
   <property name="kdenlive:folder.-1.4">Intro</property>
   <property name="kdenlive:folder.-1.6">audio</property>
@@ -3235,7 +3261,7 @@ Google Firebase&lt;/content>
   <property name="kdenlive:folder.-1.44">one_trick_ponies</property>
   <property name="kdenlive:folder.-1.49">opaque_data</property>
   <property name="kdenlive:folder.-1.72">ending</property>
-  <property name="kdenlive:docproperties.activeTrack">2</property>
+  <property name="kdenlive:docproperties.activeTrack">1</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.dirtypreviewchunks">1925,1950,1975,2000</property>
@@ -3251,7 +3277,7 @@ Google Firebase&lt;/content>
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.08.2</property>
-  <property name="kdenlive:docproperties.position">170</property>
+  <property name="kdenlive:docproperties.position">90</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension">mov</property>
   <property name="kdenlive:docproperties.previewparameters">r=29.97 s=1920x1080 vb=45M threads=0 vcodec=dnxhd progressive=1</property>
@@ -3289,8 +3315,8 @@ Google Firebase&lt;/content>
   <property name="kdenlive:docproperties.videoTarget">2</property>
   <property name="kdenlive:docproperties.zonein">4867</property>
   <property name="kdenlive:docproperties.zoneout">4942</property>
-  <property name="kdenlive:docproperties.zoom">5</property>
-  <property name="kdenlive:expandedFolders">16</property>
+  <property name="kdenlive:docproperties.zoom">4</property>
+  <property name="kdenlive:expandedFolders">4</property>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
   <entry producer="producer1" in="00:00:00.000" out="00:04:38.105"/>
@@ -3315,9 +3341,11 @@ Google Firebase&lt;/content>
   <entry producer="producer21" in="00:00:00.000" out="00:00:04.972"/>
   <entry producer="producer34" in="00:00:00.000" out="00:00:05.005"/>
   <entry producer="producer32" in="00:00:00.000" out="00:00:04.972"/>
+  <entry producer="producer27" in="00:00:00.000" out="00:00:50.651"/>
   <entry producer="producer15" in="00:00:00.000" out="00:01:04.805"/>
   <entry producer="producer25" in="00:00:00.000" out="00:00:53.253"/>
   <entry producer="producer26" in="00:00:00.000" out="00:01:00.601"/>
+  <entry producer="producer65" in="00:00:00.000" out="00:00:50.651"/>
   <entry producer="producer63" in="00:00:00.000" out="00:00:04.972"/>
   <entry producer="producer28" in="00:00:00.000" out="00:00:07.107"/>
   <entry producer="producer30" in="00:00:00.000" out="00:00:15.716"/>
@@ -3348,7 +3376,7 @@ Google Firebase&lt;/content>
   <entry producer="producer55" in="00:00:00.000" out="00:00:07.107"/>
   <entry producer="producer56" in="00:00:00.000" out="00:00:07.107"/>
   <entry producer="producer47" in="00:00:00.000" out="00:00:07.107"/>
-  <entry producer="producer58" in="00:00:00.000" out="00:00:08.642"/>
+  <entry producer="producer58" in="00:00:00.000" out="00:00:09.610"/>
   <entry producer="producer59" in="00:00:00.000" out="00:00:05.472"/>
   <entry producer="producer60" in="00:00:00.000" out="00:00:05.272"/>
   <entry producer="producer5" in="00:00:00.000" out="00:00:06.006"/>
@@ -3365,11 +3393,11 @@ Google Firebase&lt;/content>
   <entry producer="producer71" in="00:00:00.000" out="00:00:07.975"/>
   <entry producer="producer72" in="00:00:00.000" out="00:00:05.272"/>
   <entry producer="producer73" in="00:00:00.000" out="00:00:04.972"/>
-  <entry producer="producer27" in="00:00:00.000" out="00:00:50.651"/>
-  <entry producer="producer65" in="00:00:00.000" out="00:00:50.651"/>
   <entry producer="producer74" in="00:00:00.000" out="00:00:05.472"/>
+  <entry producer="producer75" in="00:00:00.000" out="00:00:04.972"/>
+  <entry producer="producer76" in="00:00:00.000" out="00:00:04.972"/>
  </playlist>
- <producer id="black_track" in="00:00:00.000" out="00:19:18.252">
+ <producer id="black_track" in="00:00:00.000" out="00:19:22.289">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -3411,7 +3439,7 @@ Google Firebase&lt;/content>
    <property name="disable">1</property>
   </filter>
  </tractor>
- <producer id="producer75" in="00:00:00.000" out="00:04:38.105">
+ <producer id="producer77" in="00:00:00.000" out="00:04:38.105">
   <property name="length">8335</property>
   <property name="eof">pause</property>
   <property name="resource">audio/midnight_rendezvous.mp3</property>
@@ -3445,8 +3473,9 @@ Google Firebase&lt;/content>
  </producer>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="producer75" in="00:00:03.937" out="00:02:41.141">
+  <entry producer="producer77" in="00:00:03.937" out="00:02:45.178">
    <property name="kdenlive:id">2</property>
+   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter4">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
@@ -3455,7 +3484,7 @@ Google Firebase&lt;/content>
     <property name="kdenlive_id">volume</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter5" in="00:02:38.005" out="00:02:41.141">
+   <filter id="filter5" in="00:02:40.207" out="00:02:45.178">
     <property name="window">75</property>
     <property name="max_gain">20dB</property>
     <property name="mlt_service">volume</property>
@@ -3467,7 +3496,7 @@ Google Firebase&lt;/content>
   </entry>
  </playlist>
  <playlist id="playlist3"/>
- <tractor id="tractor1" in="00:00:00.000" out="00:02:37.204">
+ <tractor id="tractor1" in="00:00:00.000" out="00:02:41.241">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:collapsed">0</property>
@@ -3503,12 +3532,12 @@ Google Firebase&lt;/content>
    <property name="kdenlive:id">7</property>
   </entry>
   <blank length="00:00:16.750"/>
-  <entry producer="producer2" in="00:00:00.000" out="00:02:01.401">
+  <entry producer="producer2" in="00:00:00.000" out="00:02:04.304">
    <property name="kdenlive:id">7</property>
   </entry>
  </playlist>
  <playlist id="playlist5"/>
- <tractor id="tractor2" in="00:00:00.000" out="00:02:37.204">
+ <tractor id="tractor2" in="00:00:00.000" out="00:02:40.107">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:thumbs_format"/>
@@ -3522,23 +3551,23 @@ Google Firebase&lt;/content>
   <entry producer="producer27" in="00:00:00.000" out="00:00:12.412">
    <property name="kdenlive:id">31</property>
   </entry>
-  <entry producer="producer65" in="00:00:00.000" out="00:00:07.541">
+  <entry producer="producer65" in="00:00:00.000" out="00:00:07.441">
    <property name="kdenlive:id">35</property>
   </entry>
-  <blank length="00:00:08.275"/>
-  <entry producer="producer37" in="00:00:00.000" out="00:00:11.578">
+  <blank length="00:00:07.508"/>
+  <entry producer="producer37" in="00:00:00.000" out="00:00:12.446">
    <property name="kdenlive:id">46</property>
   </entry>
-  <entry producer="producer36" in="00:00:00.000" out="00:00:07.541">
+  <entry producer="producer36" in="00:00:00.000" out="00:00:07.508">
    <property name="kdenlive:id">45</property>
   </entry>
-  <blank length="00:00:34.968"/>
-  <entry producer="producer49" in="00:00:00.000" out="00:00:10.010">
+  <blank length="00:00:35.002"/>
+  <entry producer="producer49" in="00:00:00.000" out="00:00:09.977">
    <property name="kdenlive:id">59</property>
   </entry>
  </playlist>
  <playlist id="playlist7"/>
- <tractor id="tractor3" in="00:00:00.000" out="00:02:11.345">
+ <tractor id="tractor3" in="00:00:00.000" out="00:02:11.311">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:track_name">v3</property>
@@ -3560,19 +3589,19 @@ Google Firebase&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer4" in="00:00:00.000" out="00:00:00.467">
+  <entry producer="producer4" in="00:00:00.000" out="00:00:00.901">
    <property name="kdenlive:id">5</property>
   </entry>
-  <entry producer="producer3" in="00:00:00.000" out="00:00:04.104">
+  <entry producer="producer3" in="00:00:00.000" out="00:00:03.604">
    <property name="kdenlive:id">8</property>
   </entry>
-  <entry producer="producer73" in="00:00:00.000" out="00:00:04.438">
+  <entry producer="producer73" in="00:00:00.000" out="00:00:03.203">
    <property name="kdenlive:id">85</property>
   </entry>
-  <entry producer="producer6" in="00:00:00.000" out="00:00:01.902">
+  <entry producer="producer6" in="00:00:00.000" out="00:00:03.103">
    <property name="kdenlive:id">9</property>
   </entry>
-  <entry producer="producer20" in="00:00:00.000" out="00:00:00.968">
+  <entry producer="producer20" in="00:00:00.000" out="00:00:01.068">
    <property name="kdenlive:id">77</property>
   </entry>
   <entry producer="producer13" in="00:00:00.000" out="00:00:01.301">
@@ -3584,13 +3613,13 @@ Google Firebase&lt;/content>
   <entry producer="producer18" in="00:00:00.000" out="00:00:01.335">
    <property name="kdenlive:id">75</property>
   </entry>
-  <entry producer="producer19" in="00:00:00.000" out="00:00:01.401">
+  <entry producer="producer19" in="00:00:00.000" out="00:00:01.068">
    <property name="kdenlive:id">76</property>
   </entry>
-  <entry producer="producer23" in="00:00:00.000" out="00:00:02.202">
+  <entry producer="producer23" in="00:00:00.000" out="00:00:02.503">
    <property name="kdenlive:id">78</property>
   </entry>
-  <entry producer="producer10" in="00:00:00.000" out="00:00:02.436">
+  <entry producer="producer10" in="00:00:00.000" out="00:00:02.469">
    <property name="kdenlive:id">13</property>
   </entry>
   <entry producer="producer9" in="00:00:00.000" out="00:00:02.436">
@@ -3608,21 +3637,21 @@ Google Firebase&lt;/content>
   <entry producer="producer14" in="00:00:00.000" out="00:00:01.134">
    <property name="kdenlive:id">19</property>
   </entry>
-  <entry producer="producer26" in="00:00:00.000" out="00:00:19.987">
+  <entry producer="producer26" in="00:00:00.000" out="00:00:19.887">
    <property name="kdenlive:id">34</property>
    <property name="kdenlive:activeeffect">0</property>
    <filter id="filter31">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000=6 244 1690 951 1.000000;00:00:09.977=6 244 1690 951 1.000000;00:00:12.446=733 244 1690 951 1.000000;00:00:17.384=733 244 1690 951 1.000000</property>
-    <property name="rotation">00:00:00.000=0;00:00:09.977=0;00:00:12.446=0;00:00:17.384=0</property>
+    <property name="rect">00:00:00.000=6 244 1690 951 1.000000;00:00:11.011=6 244 1690 951 1.000000;00:00:12.446=733 244 1690 951 1.000000;00:00:17.384=733 244 1690 951 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:11.011=0;00:00:12.446=0;00:00:17.384=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer11" in="00:00:00.000" out="00:00:01.201">
+  <entry producer="producer11" in="00:00:00.000" out="00:00:01.301">
    <property name="kdenlive:id">15</property>
   </entry>
   <entry producer="producer62" in="00:00:00.000" out="00:00:02.469">
@@ -3631,39 +3660,36 @@ Google Firebase&lt;/content>
   <entry producer="producer63" in="00:00:00.000" out="00:00:02.369">
    <property name="kdenlive:id">36</property>
   </entry>
-  <entry producer="producer30" in="00:00:00.000" out="00:00:01.134">
+  <entry producer="producer30" in="00:00:00.000" out="00:00:01.235">
    <property name="kdenlive:id">38</property>
   </entry>
-  <entry producer="producer22" in="00:00:00.000" out="00:00:00.934">
-   <property name="kdenlive:id">42</property>
-  </entry>
-  <entry producer="producer26" in="00:00:00.000" out="00:00:19.152">
+  <entry producer="producer26" in="00:00:00.000" out="00:00:19.987">
    <property name="kdenlive:id">34</property>
    <property name="kdenlive:activeeffect">0</property>
    <filter id="filter33">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000=6 244 1690 951 1.000000;00:00:10.644=6 244 1690 951 1.000000;00:00:11.612=790 244 1690 951 1.000000;00:00:17.317=790 244 1690 951 1.000000</property>
-    <property name="rotation">00:00:00.000=0;00:00:10.644=0;00:00:11.612=0;00:00:17.317=0</property>
+    <property name="rect">00:00:00.000=6 244 1690 951 1.000000;00:00:10.511=6 244 1690 951 1.000000;00:00:12.446=790 244 1690 951 1.000000;00:00:18.151=790 244 1690 951 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:10.511=0;00:00:12.446=0;00:00:18.151=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer62" in="00:00:00.000" out="00:00:01.401">
+  <entry producer="producer62" in="00:00:00.000" out="00:00:02.469">
    <property name="kdenlive:id">79</property>
   </entry>
-  <entry producer="producer67" in="00:00:00.000" out="00:00:02.870">
+  <entry producer="producer67" in="00:00:00.000" out="00:00:02.436">
    <property name="kdenlive:id">80</property>
   </entry>
-  <entry producer="producer68" in="00:00:00.000" out="00:00:01.368">
+  <entry producer="producer68" in="00:00:00.000" out="00:00:00.767">
    <property name="kdenlive:id">48</property>
   </entry>
-  <entry producer="producer40" in="00:00:00.000" out="00:00:01.735">
+  <entry producer="producer40" in="00:00:00.000" out="00:00:01.668">
    <property name="kdenlive:id">50</property>
   </entry>
-  <entry producer="producer42" in="00:00:00.000" out="00:00:02.436">
+  <entry producer="producer42" in="00:00:00.000" out="00:00:02.503">
    <property name="kdenlive:id">52</property>
   </entry>
   <entry producer="producer45" in="00:00:00.000" out="00:00:03.103">
@@ -3675,10 +3701,10 @@ Google Firebase&lt;/content>
   <entry producer="producer57" in="00:00:00.000" out="00:00:00.968">
    <property name="kdenlive:id">57</property>
   </entry>
-  <entry producer="producer48" in="00:00:00.000" out="00:00:01.869">
+  <entry producer="producer48" in="00:00:00.000" out="00:00:01.034">
    <property name="kdenlive:id">58</property>
   </entry>
-  <entry producer="producer50" in="00:00:00.000" out="00:00:02.970">
+  <entry producer="producer50" in="00:00:00.000" out="00:00:03.804">
    <property name="kdenlive:id">60</property>
   </entry>
   <entry producer="producer69" in="00:00:00.000" out="00:00:02.503">
@@ -3693,9 +3719,8 @@ Google Firebase&lt;/content>
   <entry producer="producer52" in="00:00:00.000" out="00:00:02.603">
    <property name="kdenlive:id">62</property>
   </entry>
-  <entry producer="producer26" in="00:00:00.000" out="00:00:10.010">
+  <entry producer="producer26" in="00:00:00.000" out="00:00:09.977">
    <property name="kdenlive:id">34</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter34">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
@@ -3707,39 +3732,39 @@ Google Firebase&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer67" in="00:00:00.000" out="00:00:01.368">
+  <entry producer="producer67" in="00:00:00.000" out="00:00:01.401">
    <property name="kdenlive:id">80</property>
   </entry>
-  <entry producer="producer71" in="00:00:00.000" out="00:00:03.637">
+  <entry producer="producer71" in="00:00:00.000" out="00:00:03.537">
    <property name="kdenlive:id">83</property>
   </entry>
-  <entry producer="producer60" in="00:00:00.000" out="00:00:02.369">
+  <entry producer="producer60" in="00:00:00.000" out="00:00:04.972">
    <property name="kdenlive:id">70</property>
   </entry>
-  <entry producer="producer59" in="00:00:00.000" out="00:00:03.203">
+  <entry producer="producer59" in="00:00:00.000" out="00:00:03.737">
    <property name="kdenlive:id">69</property>
   </entry>
-  <entry producer="producer74" in="00:00:00.000" out="00:00:03.704">
+  <entry producer="producer74" in="00:00:00.000" out="00:00:03.637">
    <property name="kdenlive:id">86</property>
   </entry>
-  <entry producer="producer72" in="00:00:00.000" out="00:00:02.970">
+  <entry producer="producer72" in="00:00:00.000" out="00:00:02.569">
    <property name="kdenlive:id">84</property>
   </entry>
-  <entry producer="producer58" in="00:00:00.000" out="00:00:08.375">
+  <entry producer="producer58" in="00:00:00.000" out="00:00:09.843">
    <property name="kdenlive:id">68</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter9" in="00:00:06.740" out="00:00:08.408">
+   <filter id="filter9" in="00:00:08.208" out="00:00:09.877">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
     <property name="end">0</property>
-    <property name="alpha">-1</property>
+    <property name="alpha">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
  </playlist>
  <playlist id="playlist9"/>
- <tractor id="tractor4" in="00:00:00.000" out="00:02:37.204">
+ <tractor id="tractor4" in="00:00:00.000" out="00:02:41.241">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:thumbs_format"/>
@@ -3748,7 +3773,7 @@ Google Firebase&lt;/content>
   <track hide="audio" producer="playlist8"/>
   <track hide="both" producer="playlist9"/>
  </tractor>
- <producer id="producer76" in="00:00:00.000" out="00:00:26.627">
+ <producer id="producer78" in="00:00:00.000" out="00:00:26.627">
   <property name="length">799</property>
   <property name="eof">pause</property>
   <property name="resource">2.000000:mobile_login_and_create.mp4</property>
@@ -3796,7 +3821,7 @@ Google Firebase&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer77" in="00:00:00.000" out="02:57:37.304">
+ <producer id="producer79" in="00:00:00.000" out="02:57:37.304">
   <property name="length">319400</property>
   <property name="eof">pause</property>
   <property name="resource">0.005000:mobile_login_and_create.mp4</property>
@@ -3844,10 +3869,10 @@ Google Firebase&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer78" in="00:00:00.000" out="00:00:23.323">
-  <property name="length">700</property>
+ <producer id="producer80" in="00:00:00.000" out="00:00:25.025">
+  <property name="length">751</property>
   <property name="eof">pause</property>
-  <property name="resource">2.500000:mobile_create_journal.mp4</property>
+  <property name="resource">2.330000:mobile_create_journal.mp4</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -3875,11 +3900,12 @@ Google Firebase&lt;/content>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
-  <property name="warp_speed">2.5</property>
+  <property name="warp_speed">2.33</property>
   <property name="warp_resource">mobile_create_journal.mp4</property>
   <property name="mlt_service">timewarp</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
+  <property name="kdenlive:id">43</property>
   <property name="warp_pitch">0</property>
   <property name="meta.media.frame_rate_num">8765</property>
   <property name="meta.media.frame_rate_den">292</property>
@@ -3890,9 +3916,8 @@ Google Firebase&lt;/content>
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="kdenlive:id">43</property>
  </producer>
- <producer id="producer79" in="00:00:00.000" out="00:00:07.908">
+ <producer id="producer81" in="00:00:00.000" out="00:00:07.908">
   <property name="length">239</property>
   <property name="eof">pause</property>
   <property name="resource">2.000000:mobile_create_newnote.mp4</property>
@@ -3940,7 +3965,7 @@ Google Firebase&lt;/content>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer80" in="00:00:00.000" out="00:26:29.963">
+ <producer id="producer82" in="00:00:00.000" out="00:26:29.963">
   <property name="length">47700</property>
   <property name="eof">pause</property>
   <property name="resource">0.010000:mobile_create_newnote.mp4</property>
@@ -3990,51 +4015,51 @@ Google Firebase&lt;/content>
  </producer>
  <playlist id="playlist10">
   <blank length="00:00:38.872"/>
-  <entry producer="producer76" in="00:00:03.203" out="00:00:16.950">
+  <entry producer="producer78" in="00:00:03.203" out="00:00:16.950">
    <property name="kdenlive:id">33</property>
    <property name="kdenlive:activeeffect">0</property>
    <filter id="filter32">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:03.203=196 293 1305 734 1.000000;00:00:13.180=196 291 1311 737 1.000000;00:00:15.649=920 291 1313 738 1.000000;00:00:16.950=920 291 1313 738 1.000000</property>
-    <property name="rotation">00:00:03.203=0;00:00:13.180=0;00:00:15.649=0;00:00:16.950=0</property>
+    <property name="rect">00:00:03.203=196 293 1305 734 1.000000;00:00:14.214=196 291 1311 737 1.000000;00:00:15.649=920 291 1313 738 1.000000;00:00:16.950=920 291 1313 738 1.000000</property>
+    <property name="rotation">00:00:03.203=0;00:00:14.214=0;00:00:15.649=0;00:00:16.950=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer77" in="01:53:13.080" out="01:53:19.286">
+  <entry producer="producer79" in="01:53:12.145" out="01:53:18.252">
    <property name="kdenlive:id">33</property>
    <property name="kdenlive:activeeffect">0</property>
    <filter id="filter35">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
-    <property name="rect">01:53:13.080=920 291 1316 740 1.000000</property>
-    <property name="rotation">01:53:13.080=0</property>
+    <property name="rect">01:53:12.145=920 291 1312 737 1.000000</property>
+    <property name="rotation">01:53:12.145=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:00:08.275"/>
-  <entry producer="producer78" in="00:00:00.667" out="00:00:19.820">
+  <blank length="00:00:07.508"/>
+  <entry producer="producer80" in="00:00:00.000" out="00:00:19.987">
    <property name="kdenlive:id">43</property>
    <property name="kdenlive:activeeffect">0</property>
    <filter id="filter37">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.667=183 288 1332 749 1.000000;00:00:11.311=196 295 1305 734 1.000000;00:00:12.279=970 288 1332 749 1.000000;00:00:17.985=970 288 1332 749 1.000000</property>
-    <property name="rotation">00:00:00.667=0;00:00:11.311=0;00:00:12.279=0;00:00:17.985=0</property>
+    <property name="rect">00:00:00.000=193 288 1312 738 1.000000;00:00:10.511=193 288 1312 738 1.000000;00:00:12.446=978 288 1312 738 1.000000;00:00:18.151=978 288 1332 749 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:10.511=0;00:00:12.446=0;00:00:18.151=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:00:34.968"/>
-  <entry producer="producer79" in="00:00:01.301" out="00:00:06.340">
+  <blank length="00:00:35.002"/>
+  <entry producer="producer81" in="00:00:01.301" out="00:00:06.340">
    <property name="kdenlive:id">63</property>
    <property name="kdenlive:activeeffect">0</property>
    <filter id="filter38">
@@ -4060,9 +4085,8 @@ Google Firebase&lt;/content>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer80" in="00:20:42.676" out="00:20:47.614">
+  <entry producer="producer82" in="00:20:42.676" out="00:20:47.581">
    <property name="kdenlive:id">63</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter36">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
@@ -4088,7 +4112,7 @@ Google Firebase&lt;/content>
   </entry>
  </playlist>
  <playlist id="playlist11"/>
- <tractor id="tractor5" in="00:00:00.000" out="00:02:11.345">
+ <tractor id="tractor5" in="00:00:00.000" out="00:02:11.311">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:track_name">v3</property>
@@ -4098,7 +4122,7 @@ Google Firebase&lt;/content>
   <track hide="audio" producer="playlist10"/>
   <track hide="both" producer="playlist11"/>
  </tractor>
- <producer id="producer81" in="00:00:00.000" out="00:00:18.519">
+ <producer id="producer83" in="00:00:00.000" out="00:00:18.519">
   <property name="length">556</property>
   <property name="eof">pause</property>
   <property name="resource">firebase_create_newnote.mp4</property>
@@ -4151,9 +4175,9 @@ Google Firebase&lt;/content>
  </producer>
  <playlist id="playlist12">
   <blank length="00:02:01.335"/>
-  <entry producer="producer81" in="00:00:00.000" out="00:00:05.038">
+  <entry producer="producer83" in="00:00:00.000" out="00:00:05.038">
    <property name="kdenlive:id">64</property>
-   <property name="kdenlive:activeeffect">0</property>
+   <property name="kdenlive:activeeffect">1</property>
    <filter id="filter42">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
@@ -4164,10 +4188,22 @@ Google Firebase&lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
+   <filter id="filter10">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">3</property>
+    <property name="left">0</property>
+    <property name="bottom">0</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
-  <entry producer="producer81" in="00:00:10.544" out="00:00:15.482">
+  <entry producer="producer83" in="00:00:10.544" out="00:00:15.449">
    <property name="kdenlive:id">64</property>
-   <property name="kdenlive:activeeffect">0</property>
+   <property name="kdenlive:activeeffect">1</property>
    <filter id="filter41">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
@@ -4178,10 +4214,22 @@ Google Firebase&lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
+   <filter id="filter12">
+    <property name="mlt_service">crop</property>
+    <property name="kdenlive_id">crop</property>
+    <property name="top">3</property>
+    <property name="left">0</property>
+    <property name="bottom">0</property>
+    <property name="right">0</property>
+    <property name="center">0</property>
+    <property name="center_bias">0</property>
+    <property name="use_profile">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
  </playlist>
  <playlist id="playlist13"/>
- <tractor id="tractor6" in="00:00:00.000" out="00:02:11.345">
+ <tractor id="tractor6" in="00:00:00.000" out="00:02:11.311">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:thumbs_format"/>
@@ -4191,7 +4239,7 @@ Google Firebase&lt;/content>
   <track hide="both" producer="playlist13"/>
  </tractor>
  <playlist id="timeline_preview"/>
- <tractor id="tractor7" global_feed="1" in="00:00:00.000" out="00:19:18.252">
+ <tractor id="tractor7" global_feed="1" in="00:00:00.000" out="00:19:22.289">
   <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
@@ -4289,7 +4337,7 @@ Google Firebase&lt;/content>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter10">
+  <filter id="filter13">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="disable">1</property>
